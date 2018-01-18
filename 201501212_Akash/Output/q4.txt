@@ -1,0 +1,30 @@
+{
+  "took": 34,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": 1,
+    "max_score": 3.2414422,
+    "hits": [
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_id": "AWELA-UUwhAc0vfmq_Ar",
+        "_score": 3.2414422,
+        "_source": {
+          "Number": "3",
+          "Year": "1966",
+          "Album": "Revolver",
+          "Artist": "The Beatles",
+          "Genre": "Rock",
+          "Subgenre": "Psychedelic Rock, Pop Rock"
+        }
+      }
+    ]
+  }
+}
