@@ -1,0 +1,156 @@
+{
+  "took": 3,
+  "_shards": {
+    "total": 5,
+    "failed": 0,
+    "successful": 5,
+    "skipped": 0
+  },
+  "hits": {
+    "total": 309,
+    "hits": [
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "11",
+          "Year": "1976",
+          "Artist": "Elvis Presley",
+          "Album": "The Sun Sessions",
+          "Subgenre": "Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfhV",
+        "_score": 2.2616808
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "92",
+          "Year": "1978",
+          "Artist": "Buddy Holly",
+          "Album": "20 Golden Greats",
+          "Subgenre": "Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4BLWdmImIOhfim",
+        "_score": 2.2214556
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "21",
+          "Year": "1982",
+          "Artist": "Chuck Berry",
+          "Album": "The Great Twenty_Eight",
+          "Subgenre": "Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfhf",
+        "_score": 2.0150096
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "1",
+          "Year": "1967",
+          "Artist": "The Beatles",
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+          "Subgenre": "Rock&Roll, Psychedelic Rock"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfhL",
+        "_score": 1.6634893
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Pop",
+          "Number": "420",
+          "Year": "1957",
+          "Artist": "The Crickets",
+          "Album": "The \"Chirping\" Crickets",
+          "Subgenre": "Rockabilly, Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4BLWdmImIOhfnu",
+        "_score": 1.6634893
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "53",
+          "Year": "1964",
+          "Artist": "The Beatles",
+          "Album": "Meet The Beatles!",
+          "Subgenre": "Beat, Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfh_",
+        "_score": 1.4820601
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "116",
+          "Year": "1965",
+          "Artist": "The Rolling Stones",
+          "Album": "Out of Our Heads",
+          "Subgenre": "Blues Rock, Rock&Roll"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4BLWdmImIOhfi-",
+        "_score": 1.4820601
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "232",
+          "Year": "1972",
+          "Artist": "The Kinks",
+          "Album": "The Kink Kronikles",
+          "Subgenre": "Rock&Roll, Pop Rock"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4BLWdmImIOhfky",
+        "_score": 1.4820601
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "333",
+          "Year": "1981",
+          "Artist": "X",
+          "Album": "Wild Gift",
+          "Subgenre": "Rock&Roll, Punk"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4BLWdmImIOhfmX",
+        "_score": 1.4820601
+      },
+      {
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Number": "33",
+          "Year": "1976",
+          "Artist": "Ramones",
+          "Album": "Ramones",
+          "Subgenre": "Rock&Roll, Punk"
+        },
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfhr",
+        "_score": 1.4711709
+      }
+    ],
+    "max_score": 2.2616808
+  },
+  "timed_out": false
+}

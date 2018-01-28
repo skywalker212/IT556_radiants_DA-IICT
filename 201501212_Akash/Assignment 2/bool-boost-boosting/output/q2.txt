@@ -1,0 +1,366 @@
+{
+  "took": 3,
+  "timed_out": false,
+  "hits": {
+    "total": 25,
+    "hits": [
+      {
+        "_score": 8.7971115,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "War",
+          "Subgenre": "Pop Rock",
+          "Number": "223",
+          "Year": "1983",
+          "Artist": "U2"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfkp",
+        "_index": "songs"
+      },
+      {
+        "_score": 8.49699,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "All That You Can't Leave Behind",
+          "Subgenre": "Pop Rock",
+          "Number": "280",
+          "Year": "2000",
+          "Artist": "U2"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfli",
+        "_index": "songs"
+      },
+      {
+        "_score": 8.120886,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Rock",
+          "Album": "Achtung Baby",
+          "Subgenre": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock",
+          "Number": "63",
+          "Year": "1991",
+          "Artist": "U2"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfiJ",
+        "_index": "songs"
+      },
+      {
+        "_score": 7.2326174,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "The Joshua Tree",
+          "Subgenre": "Alternative Rock, Pop Rock",
+          "Number": "27",
+          "Year": "1987",
+          "Artist": "U2"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhl",
+        "_index": "songs"
+      },
+      {
+        "_score": 7.2326174,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "Boy",
+          "Subgenre": "New Wave, Pop Rock",
+          "Number": "417",
+          "Year": "1980",
+          "Artist": "U2"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfnr",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
+          "Subgenre": "Garage Rock,\u00caPsychedelic Rock",
+          "Number": "196",
+          "Year": "1998",
+          "Artist": "Various Artists"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfkO",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Blues, Folk, World, & Country",
+          "Album": "Anthology of American Folk Music",
+          "Subgenre": "Cajun, Country, Field Recording, Gospel, Delta Blues, Folk",
+          "Number": "278",
+          "Year": "1997",
+          "Artist": "Various"
+        },
+        "_id": "AWE9sn4BLWdmImIOhflg",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Folk, World, & Country",
+          "Album": "Car Wheels on a Gravel Road",
+          "Subgenre": "Country, Folk",
+          "Number": "305",
+          "Year": "1998",
+          "Artist": "Lucinda Williams"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfl7",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Pop",
+          "Album": "(What's the Story) Morning Glory?",
+          "Subgenre": "Brit Pop",
+          "Number": "378",
+          "Year": "1995",
+          "Artist": "Oasis"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfnE",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Funk/Soul",
+          "Album": "Anthology: The Best of The Temptations",
+          "Subgenre": "Soul, Disco",
+          "Number": "400",
+          "Year": "1995",
+          "Artist": "The Temptations"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfna",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Folk, World, & Country",
+          "Album": "Down Every Road",
+          "Subgenre": "Country",
+          "Number": "477",
+          "Year": "1996",
+          "Artist": "Merle Haggard"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfon",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Pop",
+          "Album": "Ray of Light",
+          "Subgenre": "House, Techno, Downtempo, Vocal, Ambient",
+          "Number": "367",
+          "Year": "1998",
+          "Artist": "Madonna"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfm5",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic",
+          "Album": "Post",
+          "Subgenre": "Breakbeat, IDM, Electro",
+          "Number": "376",
+          "Year": "1995",
+          "Artist": "Bjork"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfnC",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "The Score",
+          "Subgenre": "Pop Rap, Conscious",
+          "Number": "469",
+          "Year": "1996",
+          "Artist": "Fugees"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfof",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "Only Built 4 Cuban Linx",
+          "Subgenre": "None",
+          "Number": "480",
+          "Year": "1995",
+          "Artist": "Raekwon"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfoq",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "Aquemini",
+          "Subgenre": "Reggae, Gangsta, Soul, Conscious",
+          "Number": "500",
+          "Year": "1998",
+          "Artist": "OutKast"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfo-",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "The Bends",
+          "Subgenre": "Alternative Rock",
+          "Number": "111",
+          "Year": "1995",
+          "Artist": "Radiohead"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfi5",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Rock",
+          "Album": "OK Computer",
+          "Subgenre": "Alternative Rock",
+          "Number": "162",
+          "Year": "1997",
+          "Artist": "Radiohead"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfjs",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "Reasonable Doubt",
+          "Subgenre": "None",
+          "Number": "250",
+          "Year": "1996",
+          "Artist": "Jay Z"
+        },
+        "_id": "AWE9sn4BLWdmImIOhflE",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "The Miseducation of Lauryn Hill",
+          "Subgenre": "RnB/Swing, Conscious",
+          "Number": "314",
+          "Year": "1998",
+          "Artist": "Lauryn Hill"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfmE",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Blues",
+          "Album": "Time Out of Mind",
+          "Subgenre": "Blues Rock",
+          "Number": "410",
+          "Year": "1997",
+          "Artist": "Bob Dylan"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfnk",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Hip Hop",
+          "Album": "Life After Death",
+          "Subgenre": "None",
+          "Number": "476",
+          "Year": "1997",
+          "Artist": "The Notorious B.I.G."
+        },
+        "_id": "AWE9sn4BLWdmImIOhfom",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Funk/Soul, Pop",
+          "Album": "The Velvet Rope",
+          "Subgenre": "RnB/Swing, Downtempo",
+          "Number": "259",
+          "Year": "1997",
+          "Artist": "Janet"
+        },
+        "_id": "AWE9sn4BLWdmImIOhflN",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Album": "Dig Me Out",
+          "Subgenre": "Indie Rock",
+          "Number": "272",
+          "Year": "1997",
+          "Artist": "Sleater Kinney"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfla",
+        "_index": "songs"
+      },
+      {
+        "_score": 1.0,
+        "_type": "album",
+        "_source": {
+          "Genre": "Electronic, Hip Hop, Funk/Soul, Pop",
+          "Album": "Odelay",
+          "Subgenre": "Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract",
+          "Number": "306",
+          "Year": "1996",
+          "Artist": "Beck"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfl8",
+        "_index": "songs"
+      }
+    ],
+    "max_score": 8.7971115
+  },
+  "_shards": {
+    "total": 5,
+    "failed": 0,
+    "successful": 5,
+    "skipped": 0
+  }
+}
