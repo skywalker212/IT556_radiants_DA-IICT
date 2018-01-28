@@ -1,0 +1,114 @@
+{
+  "took": 3,
+  "_shards": {
+    "failed": 0,
+    "skipped": 0,
+    "total": 5,
+    "successful": 5
+  },
+  "timed_out": false,
+  "hits": {
+    "max_score": 4.8877306,
+    "total": 7,
+    "hits": [
+      {
+        "_id": "AWE9sn4BLWdmImIOhfnS",
+        "_score": 4.8877306,
+        "_type": "album",
+        "_source": {
+          "Number": "392",
+          "Subgenre": "Pop Rock",
+          "Year": "1970",
+          "Genre": "Rock",
+          "Artist": "The Beatles",
+          "Album": "Let It Be"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhL",
+        "_score": 4.6686764,
+        "_type": "album",
+        "_source": {
+          "Number": "1",
+          "Subgenre": "Rock&Roll, Psychedelic Rock",
+          "Year": "1967",
+          "Genre": "Rock",
+          "Artist": "The Beatles",
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhU",
+        "_score": 4.6686764,
+        "_type": "album",
+        "_source": {
+          "Number": "10",
+          "Subgenre": "Rock&Roll, Pop Rock, Psychedelic Rock, Experimental",
+          "Year": "1968",
+          "Genre": "Rock",
+          "Artist": "The Beatles",
+          "Album": "The Beatles (\"The White Album\")"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhP",
+        "_score": 4.5496173,
+        "_type": "album",
+        "_source": {
+          "Number": "5",
+          "Subgenre": "Pop Rock",
+          "Year": "1965",
+          "Genre": "Rock, Pop",
+          "Artist": "The Beatles",
+          "Album": "Rubber Soul"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhN",
+        "_score": 4.1498833,
+        "_type": "album",
+        "_source": {
+          "Number": "3",
+          "Subgenre": "Psychedelic Rock, Pop Rock",
+          "Year": "1966",
+          "Genre": "Rock",
+          "Artist": "The Beatles",
+          "Album": "Revolver"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhY",
+        "_score": 4.1498833,
+        "_type": "album",
+        "_source": {
+          "Number": "14",
+          "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock",
+          "Year": "1969",
+          "Genre": "Rock",
+          "Artist": "The Beatles",
+          "Album": "Abbey Road"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfmV",
+        "_score": 4.1498833,
+        "_type": "album",
+        "_source": {
+          "Number": "331",
+          "Subgenre": "Beat, Soundtrack, Pop Rock",
+          "Year": "1965",
+          "Genre": "Rock, Stage & Screen",
+          "Artist": "The Beatles",
+          "Album": "Help!"
+        },
+        "_index": "songs"
+      }
+    ]
+  }
+}

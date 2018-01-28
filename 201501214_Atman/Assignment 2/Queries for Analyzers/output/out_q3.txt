@@ -1,0 +1,156 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 4.13783, 
+        "_type": "album", 
+        "_id": "rRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Hard Day's Night", 
+          "Artist": "The Beatles", 
+          "Number": "307", 
+          "Year": "1964", 
+          "Genre": "Rock, Stage & Screen", 
+          "Subgenre": "Soundtrack, Beat, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.7841895, 
+        "_type": "album", 
+        "_id": "exxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band", 
+          "Artist": "The Beatles", 
+          "Number": "1", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.7841895, 
+        "_type": "album", 
+        "_id": "hBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Beatles (\"The White Album\")", 
+          "Artist": "The Beatles", 
+          "Number": "10", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Pop Rock, Psychedelic Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.2905319, 
+        "_type": "album", 
+        "_id": "oRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Please Please Me", 
+          "Artist": "The Beatles", 
+          "Number": "39", 
+          "Year": "1963", 
+          "Genre": "Rock", 
+          "Subgenre": "Beat, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.2905319, 
+        "_type": "album", 
+        "_id": "xRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Help!", 
+          "Artist": "The Beatles", 
+          "Number": "331", 
+          "Year": "1965", 
+          "Genre": "Rock, Stage & Screen", 
+          "Subgenre": "Beat, Soundtrack, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.2905319, 
+        "_type": "album", 
+        "_id": "AhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Let It Be", 
+          "Artist": "The Beatles", 
+          "Number": "392", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.1306515, 
+        "_type": "album", 
+        "_id": "fRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Revolver", 
+          "Artist": "The Beatles", 
+          "Number": "3", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.1306515, 
+        "_type": "album", 
+        "_id": "fxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Rubber Soul", 
+          "Artist": "The Beatles", 
+          "Number": "5", 
+          "Year": "1965", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.1306515, 
+        "_type": "album", 
+        "_id": "iBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Abbey Road", 
+          "Artist": "The Beatles", 
+          "Number": "14", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 3.1306515, 
+        "_type": "album", 
+        "_id": "rxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Meet The Beatles!", 
+          "Artist": "The Beatles", 
+          "Number": "53", 
+          "Year": "1964", 
+          "Genre": "Rock", 
+          "Subgenre": "Beat, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }
+    ], 
+    "total": 10, 
+    "max_score": 4.13783
+  }, 
+  "_shards": {
+    "successful": 5, 
+    "failed": 0, 
+    "skipped": 0, 
+    "total": 5
+  }, 
+  "took": 2, 
+  "timed_out": false
+}

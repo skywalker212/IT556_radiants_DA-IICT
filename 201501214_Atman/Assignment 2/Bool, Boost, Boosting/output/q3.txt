@@ -1,0 +1,86 @@
+{
+  "timed_out": false,
+  "took": 1,
+  "_shards": {
+    "successful": 5,
+    "skipped": 0,
+    "total": 5,
+    "failed": 0
+  },
+  "hits": {
+    "max_score": 4.248495,
+    "hits": [
+      {
+        "_index": "songs",
+        "_score": 4.248495,
+        "_type": "album",
+        "_id": "AWE9sn4BLWdmImIOhfli",
+        "_source": {
+          "Number": "280",
+          "Year": "2000",
+          "Subgenre": "Pop Rock",
+          "Album": "All That You Can't Leave Behind",
+          "Artist": "U2",
+          "Genre": "Rock"
+        }
+      },
+      {
+        "_index": "songs",
+        "_score": 4.060443,
+        "_type": "album",
+        "_id": "AWE9sn4ALWdmImIOhfiJ",
+        "_source": {
+          "Number": "63",
+          "Year": "1991",
+          "Subgenre": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock",
+          "Album": "Achtung Baby",
+          "Artist": "U2",
+          "Genre": "Electronic, Rock"
+        }
+      },
+      {
+        "_index": "songs",
+        "_score": 0.87971115,
+        "_type": "album",
+        "_id": "AWE9sn4BLWdmImIOhfkp",
+        "_source": {
+          "Number": "223",
+          "Year": "1983",
+          "Subgenre": "Pop Rock",
+          "Album": "War",
+          "Artist": "U2",
+          "Genre": "Rock"
+        }
+      },
+      {
+        "_index": "songs",
+        "_score": 0.7232618,
+        "_type": "album",
+        "_id": "AWE9sn4ALWdmImIOhfhl",
+        "_source": {
+          "Number": "27",
+          "Year": "1987",
+          "Subgenre": "Alternative Rock, Pop Rock",
+          "Album": "The Joshua Tree",
+          "Artist": "U2",
+          "Genre": "Rock"
+        }
+      },
+      {
+        "_index": "songs",
+        "_score": 0.7232618,
+        "_type": "album",
+        "_id": "AWE9sn4BLWdmImIOhfnr",
+        "_source": {
+          "Number": "417",
+          "Year": "1980",
+          "Subgenre": "New Wave, Pop Rock",
+          "Album": "Boy",
+          "Artist": "U2",
+          "Genre": "Rock"
+        }
+      }
+    ],
+    "total": 5
+  }
+}

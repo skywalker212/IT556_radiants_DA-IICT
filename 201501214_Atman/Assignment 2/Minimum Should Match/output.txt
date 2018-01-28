@@ -1,0 +1,44 @@
+{
+  "took": 3,
+  "hits": {
+    "hits": [
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhN",
+        "_score": 27.75955,
+        "_type": "album",
+        "_source": {
+          "Album": "Revolver",
+          "Genre": "Rock",
+          "Subgenre": "Psychedelic Rock, Pop Rock",
+          "Year": "1966",
+          "Artist": "The Beatles",
+          "Number": "3"
+        },
+        "_index": "songs"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhL",
+        "_score": 4.6686764,
+        "_type": "album",
+        "_source": {
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+          "Genre": "Rock",
+          "Subgenre": "Rock&Roll, Psychedelic Rock",
+          "Year": "1967",
+          "Artist": "The Beatles",
+          "Number": "1"
+        },
+        "_index": "songs"
+      }
+    ],
+    "total": 2,
+    "max_score": 27.75955
+  },
+  "timed_out": false,
+  "_shards": {
+    "failed": 0,
+    "total": 5,
+    "successful": 5,
+    "skipped": 0
+  }
+}

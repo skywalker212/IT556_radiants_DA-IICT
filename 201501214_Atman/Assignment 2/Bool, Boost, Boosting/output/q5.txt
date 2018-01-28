@@ -1,0 +1,156 @@
+{
+  "_shards": {
+    "successful": 5,
+    "failed": 0,
+    "skipped": 0,
+    "total": 5
+  },
+  "timed_out": false,
+  "took": 2,
+  "hits": {
+    "max_score": 1.0,
+    "hits": [
+      {
+        "_id": "AWE9sn4BLWdmImIOhfi1",
+        "_index": "songs",
+        "_source": {
+          "Year": "2003",
+          "Genre": "Latin, Funk/Soul",
+          "Subgenre": "Soul, Rhythm & Blues, Gospel, Cha-Cha",
+          "Number": "107",
+          "Album": "Portrait of a Legend 1951-1964",
+          "Artist": "Sam Cooke"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfju",
+        "_index": "songs",
+        "_source": {
+          "Year": "2002",
+          "Genre": "Rock, Pop",
+          "Subgenre": "Soft Rock, Pop Rock",
+          "Number": "164",
+          "Album": "The Very Best of Linda Ronstadt",
+          "Artist": "Linda Ronstadt"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfkW",
+        "_index": "songs",
+        "_source": {
+          "Year": "2006",
+          "Genre": "Rock",
+          "Subgenre": "Blues Rock, Folk Rock",
+          "Number": "204",
+          "Album": "Modern Times",
+          "Artist": "Bob Dylan"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfmn",
+        "_index": "songs",
+        "_source": {
+          "Year": "2003",
+          "Genre": "Hip Hop",
+          "Subgenre": "None",
+          "Number": "349",
+          "Album": "The Black Album",
+          "Artist": "Jay Z"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfmr",
+        "_index": "songs",
+        "_source": {
+          "Year": "2010",
+          "Genre": "Hip Hop",
+          "Subgenre": "None",
+          "Number": "353",
+          "Album": "My Beautiful Dark Twisted Fantasy",
+          "Artist": "Kanye West"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfnx",
+        "_index": "songs",
+        "_source": {
+          "Year": "2001",
+          "Genre": "Electronic, Funk/Soul",
+          "Subgenre": "Pop Rock, Soul, Disco",
+          "Number": "423",
+          "Album": "Anthology",
+          "Artist": "Diana Ross & The Supremes"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfny",
+        "_index": "songs",
+        "_source": {
+          "Year": "2002",
+          "Genre": "Rock",
+          "Subgenre": "Folk Rock, Classic Rock",
+          "Number": "424",
+          "Album": "The Rising",
+          "Artist": "Bruce Springsteen"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfn1",
+        "_index": "songs",
+        "_source": {
+          "Year": "2002",
+          "Genre": "Rock, Blues, Pop",
+          "Subgenre": "Blues Rock, Pop Rock, Ballad",
+          "Number": "427",
+          "Album": "Sleepless",
+          "Artist": "Peter Wolf"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfoo",
+        "_index": "songs",
+        "_source": {
+          "Year": "2002",
+          "Genre": "Folk, World, & Country",
+          "Subgenre": "Country",
+          "Number": "478",
+          "Album": "All Time Greatest Hits",
+          "Artist": "Loretta Lynn"
+        },
+        "_type": "album",
+        "_score": 1.0
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfjh",
+        "_index": "songs",
+        "_source": {
+          "Year": "2004",
+          "Genre": "Rock",
+          "Subgenre": "Indie Rock",
+          "Number": "151",
+          "Album": "Funeral",
+          "Artist": "Arcade Fire"
+        },
+        "_type": "album",
+        "_score": 1.0
+      }
+    ],
+    "total": 42
+  }
+}

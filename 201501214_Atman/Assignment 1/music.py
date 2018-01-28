@@ -3,9 +3,11 @@ from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 import csv
 import time
+import sys
+reload(sys)  
+sys.setdefaultencoding('Cp1252')
 
 es=Elasticsearch([{"host" : "127.0.0.1", "port" : 9200}])
-
 mapping = {
 	"mappings" : {
 		"album" : {

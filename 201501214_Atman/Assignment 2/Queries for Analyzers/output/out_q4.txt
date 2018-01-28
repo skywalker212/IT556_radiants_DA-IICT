@@ -1,0 +1,4566 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "fBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Pet Sounds", 
+          "Artist": "The Beach Boys", 
+          "Number": "2", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "fRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Revolver", 
+          "Artist": "The Beatles", 
+          "Number": "3", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "fxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Rubber Soul", 
+          "Artist": "The Beatles", 
+          "Number": "5", 
+          "Year": "1965", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "iBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Abbey Road", 
+          "Artist": "The Beatles", 
+          "Number": "14", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "jBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Born to Run", 
+          "Artist": "Bruce Springsteen", 
+          "Number": "18", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "yhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Imagine", 
+          "Artist": "John Lennon", 
+          "Number": "80", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "5xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Aftermath", 
+          "Artist": "The Rolling Stones", 
+          "Number": "109", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "6hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "If You Can Believe Your Eyes and Ears", 
+          "Artist": "The Mamas and the Papas", 
+          "Number": "112", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "6xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Court and Spark", 
+          "Artist": "Joni Mitchell", 
+          "Number": "113", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Soft Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "BhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Parallel Lines", 
+          "Artist": "Blondie", 
+          "Number": "140", 
+          "Year": "1978", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "New Wave, Pop Rock, Punk, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "CBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Christmas Gift for You From Phil Spector", 
+          "Artist": "Phil Spector", 
+          "Number": "142", 
+          "Year": "1963", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "JhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Every Picture Tells a Story", 
+          "Artist": "Rod Stewart", 
+          "Number": "172", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "NRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "So", 
+          "Artist": "Peter Gabriel", 
+          "Number": "187", 
+          "Year": "1986", 
+          "Genre": "Electronic, Rock, Funk/Soul, Pop", 
+          "Subgenre": "Art Rock, Pop Rock, Synth-pop, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "ShxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Tea for the Tillerman", 
+          "Artist": "Cat Stevens", 
+          "Number": "208", 
+          "Year": "1970", 
+          "Genre": "Rock, Stage & Screen", 
+          "Subgenre": "Folk Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "WxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "American Idiot", 
+          "Artist": "Green Day", 
+          "Number": "225", 
+          "Year": "2004", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "YxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Mr. Tambourine Man", 
+          "Artist": "The Byrds", 
+          "Number": "233", 
+          "Year": "1965", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Garage Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "fBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Kinks Are The Village Green Preservation Society", 
+          "Artist": "The Kinks", 
+          "Number": "258", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "0RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Bat Out of Hell", 
+          "Artist": "Meat Loaf", 
+          "Number": "343", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "9xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Smile Sessions", 
+          "Artist": "The Beach Boys", 
+          "Number": "381", 
+          "Year": "2011", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "ARxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Pretender", 
+          "Artist": "Jackson Browne", 
+          "Number": "391", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Soft Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "GBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Beauty and the Beat", 
+          "Artist": "The Go Go's", 
+          "Number": "414", 
+          "Year": "1981", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "IRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Anthology", 
+          "Artist": "Diana Ross & The Supremes", 
+          "Number": "423", 
+          "Year": "2001", 
+          "Genre": "Electronic, Funk/Soul", 
+          "Subgenre": "Pop Rock, Soul, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "KxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "All Things Must Pass", 
+          "Artist": "George Harrison", 
+          "Number": "433", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "NRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "In Color", 
+          "Artist": "Cheap Trick", 
+          "Number": "443", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "Power Pop, Pop Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "ahxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Boz Scaggs", 
+          "Artist": "Boz Scaggs", 
+          "Number": "496", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "uxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Back to Mono (1958-1969)", 
+          "Artist": "Phil Spector", 
+          "Number": "65", 
+          "Year": "1991", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Doo Wop, Pop Rock, Ballad, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "wBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Stranger", 
+          "Artist": "Billy Joel", 
+          "Number": "70", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "wRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Graceland", 
+          "Artist": "Paul Simon", 
+          "Number": "71", 
+          "Year": "1986", 
+          "Genre": "Jazz, Rock, Funk/Soul, Pop, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "IhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "My Aim Is True", 
+          "Artist": "Elvis Costello", 
+          "Number": "168", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "WRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "War", 
+          "Artist": "U2", 
+          "Number": "223", 
+          "Year": "1983", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "YhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Kink Kronikles", 
+          "Artist": "The Kinks", 
+          "Number": "232", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "rRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Hard Day's Night", 
+          "Artist": "The Beatles", 
+          "Number": "307", 
+          "Year": "1964", 
+          "Genre": "Rock, Stage & Screen", 
+          "Subgenre": "Soundtrack, Beat, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "tRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Damn the Torpedoes", 
+          "Artist": "Tom Petty and the Heartbreakers", 
+          "Number": "315", 
+          "Year": "1979", 
+          "Genre": "Rock", 
+          "Subgenre": "Soft Rock, Hard Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "3BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "52nd Street", 
+          "Artist": "Billy Joel", 
+          "Number": "354", 
+          "Year": "1978", 
+          "Genre": "Jazz, Rock, Pop", 
+          "Subgenre": "Pop Rock, Ballad, Latin Jazz"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "8BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Siren", 
+          "Artist": "Roxy Music", 
+          "Number": "374", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock, Pop Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "GxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Boy", 
+          "Artist": "U2", 
+          "Number": "417", 
+          "Year": "1980", 
+          "Genre": "Rock", 
+          "Subgenre": "New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "HBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Band on the Run", 
+          "Artist": "Paul McCartney & Wings", 
+          "Number": "418", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "JRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Sleepless", 
+          "Artist": "Peter Wolf", 
+          "Number": "427", 
+          "Year": "2002", 
+          "Genre": "Rock, Blues, Pop", 
+          "Subgenre": "Blues Rock, Pop Rock, Ballad"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "OhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Synchronicity", 
+          "Artist": "The Police", 
+          "Number": "448", 
+          "Year": "1983", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "PBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "For Everyman", 
+          "Artist": "Jackson Browne", 
+          "Number": "450", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "UhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Faith", 
+          "Artist": "George Michael", 
+          "Number": "472", 
+          "Year": "1987", 
+          "Genre": "Electronic, Rock, Funk/Soul, Blues, Pop", 
+          "Subgenre": "Downtempo, Soft Rock, Pop Rock, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "aBxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Oracular Spectacular", 
+          "Artist": "MGMT", 
+          "Number": "494", 
+          "Year": "2007", 
+          "Genre": "Electronic, Rock, Pop", 
+          "Subgenre": "Synth-pop, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "kRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "John Lennon/Plastic Ono Band", 
+          "Artist": "John Lennon / Plastic Ono Band", 
+          "Number": "23", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "lRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Joshua Tree", 
+          "Artist": "U2", 
+          "Number": "27", 
+          "Year": "1987", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "uRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Achtung Baby", 
+          "Artist": "U2", 
+          "Number": "63", 
+          "Year": "1991", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "EBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Darkness on the Edge of Town", 
+          "Artist": "Bruce Springsteen", 
+          "Number": "150", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "HhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Very Best of Linda Ronstadt", 
+          "Artist": "Linda Ronstadt", 
+          "Number": "164", 
+          "Year": "2002", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Soft Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "LhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Rolling Stones, Now!", 
+          "Artist": "The Rolling Stones", 
+          "Number": "180", 
+          "Year": "1965", 
+          "Genre": "Rock, Blues, Pop", 
+          "Subgenre": "Pop Rock, Rhythm & Blues, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "YRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Night at the Opera", 
+          "Artist": "Queen", 
+          "Number": "231", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Pop Rock, Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "vRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Ghost in the Machine", 
+          "Artist": "The Police", 
+          "Number": "323", 
+          "Year": "1981", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Alternative Rock, New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "xRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Help!", 
+          "Artist": "The Beatles", 
+          "Number": "331", 
+          "Year": "1965", 
+          "Genre": "Rock, Stage & Screen", 
+          "Subgenre": "Beat, Soundtrack, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "3hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "12 Songs", 
+          "Artist": "Randy Newman", 
+          "Number": "356", 
+          "Year": "1970", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Pop Rock, Vocal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "3xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Between the Buttons", 
+          "Artist": "The Rolling Stones", 
+          "Number": "357", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Psychedelic Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "4RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Honky Ch\u2030teau", 
+          "Artist": "Elton John", 
+          "Number": "359", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock,\u00caClassic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "8RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Late for the Sky", 
+          "Artist": "Jackson Browne", 
+          "Number": "375", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "AhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Let It Be", 
+          "Artist": "The Beatles", 
+          "Number": "392", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "JBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Cheap Trick at Budokan", 
+          "Artist": "Cheap Trick", 
+          "Number": "426", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Power Pop, Pop Rock, Arena Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "NxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Fly Like an Eagle", 
+          "Artist": "Steve Miller Band", 
+          "Number": "445", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "SxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "69 Love Songs", 
+          "Artist": "The Magnetic Fields", 
+          "Number": "465", 
+          "Year": "1999", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Synth-pop, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "VRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Armed Forces", 
+          "Artist": "Elvis Costello & The Attractions", 
+          "Number": "475", 
+          "Year": "1979", 
+          "Genre": "Rock", 
+          "Subgenre": "New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "hBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Beatles (\"The White Album\")", 
+          "Artist": "The Beatles", 
+          "Number": "10", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Pop Rock, Psychedelic Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "xhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Purple Rain", 
+          "Artist": "Prince and the Revolution", 
+          "Number": "76", 
+          "Year": "1984", 
+          "Genre": "Electronic, Rock, Funk/Soul, Stage & Screen", 
+          "Subgenre": "Pop Rock, Funk, Soundtrack, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "0xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Dusty in Memphis", 
+          "Artist": "Dusty Springfield", 
+          "Number": "89", 
+          "Year": "1969", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Pop Rock, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "1RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Goodbye Yellow Brick Road", 
+          "Artist": "Elton John", 
+          "Number": "91", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "JRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Notorious Byrd Brothers", 
+          "Artist": "The Byrds", 
+          "Number": "171", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "MBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Fleetwood Mac", 
+          "Artist": "Fleetwood Mac", 
+          "Number": "182", 
+          "Year": "1975", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Folk Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "OxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Dookie", 
+          "Artist": "Green Day", 
+          "Number": "193", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Pop Punk, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "RRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Bad", 
+          "Artist": "Michael Jackson", 
+          "Number": "203", 
+          "Year": "1987", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Pop Rock, Ballad, Funk, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "YBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Nick of Time", 
+          "Artist": "Bonnie Raitt", 
+          "Number": "230", 
+          "Year": "1989", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Blues Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "axxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Let It Be", 
+          "Artist": "The Replacements", 
+          "Number": "241", 
+          "Year": "1984", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Power Pop, Punk, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "dxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The River", 
+          "Artist": "Bruce Springsteen", 
+          "Number": "253", 
+          "Year": "1980", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Pop Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "hhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Paul Simon", 
+          "Artist": "Paul Simon", 
+          "Number": "268", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "iRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Beach Boys Today!", 
+          "Artist": "The Beach Boys", 
+          "Number": "271", 
+          "Year": "1965", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "lhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Cars", 
+          "Artist": "The Cars", 
+          "Number": "284", 
+          "Year": "1978", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "New Wave, Pop Rock, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "mxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Something Else by The Kinks", 
+          "Artist": "The Kinks", 
+          "Number": "289", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Psychedelic Rock, Mod"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "_BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Pretzel Logic", 
+          "Artist": "Steely Dan", 
+          "Number": "386", 
+          "Year": "1974", 
+          "Genre": "Jazz, Rock", 
+          "Subgenre": "Jazz-Rock, Pop Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "BBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Good Old Boys", 
+          "Artist": "Randy Newman", 
+          "Number": "394", 
+          "Year": "1974", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Pop Rock, Vocal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "YRxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "She's So Unusual", 
+          "Artist": "Cyndi Lauper", 
+          "Number": "487", 
+          "Year": "1983", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Pop Rock, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "lBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Rumours", 
+          "Artist": "Fleetwood Mac", 
+          "Number": "26", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "0BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Born in the U.S.A.", 
+          "Artist": "Bruce Springsteen", 
+          "Number": "86", 
+          "Year": "1984", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "FhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Paul's Boutique", 
+          "Artist": "Beastie Boys", 
+          "Number": "156", 
+          "Year": "1989", 
+          "Genre": "Hip Hop, Rock, Funk/Soul", 
+          "Subgenre": "Alternative Rock, Pop Rap, Psychedelic"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "GBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Captain Fantastic and the Brown Dirt Cowboy", 
+          "Artist": "Elton John", 
+          "Number": "158", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "JxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Something/Anything?", 
+          "Artist": "Todd Rundgren", 
+          "Number": "173", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Power Pop, Pop Rock, Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "KRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Close to You", 
+          "Artist": "Carpenters", 
+          "Number": "175", 
+          "Year": "1970", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Pop Rock, Vocal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "RBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Parsley, Sage, Rosemary and Thyme", 
+          "Artist": "Simon & Garfunkel", 
+          "Number": "202", 
+          "Year": "1966", 
+          "Genre": "Rock, Pop, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "khxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "All That You Can't Leave Behind", 
+          "Artist": "U2", 
+          "Number": "280", 
+          "Year": "2000", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "2BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Roger the Engineer", 
+          "Artist": "The Yardbirds", 
+          "Number": "350", 
+          "Year": "1966", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "7hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Reggatta de Blanc", 
+          "Artist": "The Police", 
+          "Number": "372", 
+          "Year": "1979", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "New Wave, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "_xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The End of the Innocence", 
+          "Artist": "Don Henley", 
+          "Number": "389", 
+          "Year": "1989", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "CBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Eliminator", 
+          "Artist": "ZZ Top", 
+          "Number": "398", 
+          "Year": "1983", 
+          "Genre": "Rock", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "HxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Best of the Girl Groups, Volume 1", 
+          "Artist": "Various Artists", 
+          "Number": "421", 
+          "Year": "1990", 
+          "Genre": "Rock,\u00caPop", 
+          "Subgenre": "Pop Rock, Vocal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "TBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "A Rush of Blood to the Head", 
+          "Artist": "Coldplay", 
+          "Number": "466", 
+          "Year": "2002", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 2.0, 
+        "_type": "album", 
+        "_id": "VBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Proxima estacion: Esperanza", 
+          "Artist": "Manu Chao", 
+          "Number": "474", 
+          "Year": "2001", 
+          "Genre": "Rock, Reggae, Latin", 
+          "Subgenre": "Folk Rock, Reggae, Reggae-Pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "fhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Highway 61 Revisited", 
+          "Artist": "Bob Dylan", 
+          "Number": "4", 
+          "Year": "1965", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "hRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Sun Sessions", 
+          "Artist": "Elvis Presley", 
+          "Number": "11", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "iRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Are You Experienced", 
+          "Artist": "The Jimi Hendrix Experience", 
+          "Number": "15", 
+          "Year": "1967", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Music From Big Pink", 
+          "Artist": "The Band", 
+          "Number": "34", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Acoustic, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "qxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "At Fillmore East", 
+          "Artist": "The Allman Brothers Band", 
+          "Number": "49", 
+          "Year": "1971", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Meet The Beatles!", 
+          "Artist": "The Beatles", 
+          "Number": "53", 
+          "Year": "1964", 
+          "Genre": "Rock", 
+          "Subgenre": "Beat, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Appetite for Destruction", 
+          "Artist": "Guns N' Roses", 
+          "Number": "62", 
+          "Year": "1987", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Heavy Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "wxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Physical Graffiti", 
+          "Artist": "Led Zeppelin", 
+          "Number": "73", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "1xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sign \"Peace\" the Times", 
+          "Artist": "Prince", 
+          "Number": "93", 
+          "Year": "1987", 
+          "Genre": "Rock, Reggae", 
+          "Subgenre": "Ska, Reggae-Pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "2hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Tommy", 
+          "Artist": "The Who", 
+          "Number": "96", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "4hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sweet Baby James", 
+          "Artist": "James Taylor", 
+          "Number": "104", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Acoustic, Soft Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Hunky Dory", 
+          "Artist": "David Bowie", 
+          "Number": "108", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "6RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Bends", 
+          "Artist": "Radiohead", 
+          "Number": "111", 
+          "Year": "1995", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Who Sell Out", 
+          "Artist": "The Who", 
+          "Number": "115", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Mod"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Out of Our Heads", 
+          "Artist": "The Rolling Stones", 
+          "Number": "116", 
+          "Year": "1965", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "_RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Paranoid", 
+          "Artist": "Black Sabbath", 
+          "Number": "131", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Heavy Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ARxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Slanted and Enchanted", 
+          "Artist": "Pavement", 
+          "Number": "135", 
+          "Year": "1992", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "AhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Greatest Hits", 
+          "Artist": "Elton John", 
+          "Number": "136", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "GhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Electric Warrior", 
+          "Artist": "T. Rex", 
+          "Number": "160", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Glam, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "MhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Immaculate Collection", 
+          "Artist": "Madonna", 
+          "Number": "184", 
+          "Year": "1990", 
+          "Genre": "Electronic, Pop", 
+          "Subgenre": "Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "OhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Gilded Palace of Sin", 
+          "Artist": "The Flying Burrito Brothers", 
+          "Number": "192", 
+          "Year": "1969", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "SRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Abraxas", 
+          "Artist": "Santana", 
+          "Number": "207", 
+          "Year": "1970", 
+          "Genre": "Rock, Latin", 
+          "Subgenre": "Fusion, Hard Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "UhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Bo Diddley / Go Bo Diddley", 
+          "Artist": "Bo Diddley", 
+          "Number": "216", 
+          "Year": "1986", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Rhythm & Blues, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "VxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Loveless", 
+          "Artist": "My Bloody Valentine", 
+          "Number": "221", 
+          "Year": "1991", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Shoegaze"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ahxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Can't Buy a Thrill", 
+          "Artist": "Steely Dan", 
+          "Number": "240", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "bhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Marshall Mathers LP", 
+          "Artist": "Eminem", 
+          "Number": "244", 
+          "Year": "2000", 
+          "Genre": "Hip Hop", 
+          "Subgenre": "Pop Rap, Hardcore Hip-Hop, Horrorcore"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "dRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Low", 
+          "Artist": "David Bowie", 
+          "Number": "251", 
+          "Year": "1977", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Art Rock, Ambient, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Los Angeles", 
+          "Artist": "X", 
+          "Number": "287", 
+          "Year": "1980", 
+          "Genre": "Rock", 
+          "Subgenre": "Punk, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Anthem of the Sun", 
+          "Artist": "Grateful Dead", 
+          "Number": "288", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "pRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Weezer (Blue Album)", 
+          "Artist": "Weezer", 
+          "Number": "299", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Emo"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Pink Moon", 
+          "Artist": "Nick Drake", 
+          "Number": "321", 
+          "Year": "1972", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Folk, Folk Rock, Acoustic"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Station to Station", 
+          "Artist": "David Bowie", 
+          "Number": "324", 
+          "Year": "1976", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Classic Rock, Soul, Funk, Art Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "wRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Exile in Guyville", 
+          "Artist": "Liz Phair", 
+          "Number": "327", 
+          "Year": "1993", 
+          "Genre": "Rock", 
+          "Subgenre": "Lo-Fi, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "yxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Aqualung", 
+          "Artist": "Jethro Tull", 
+          "Number": "337", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Stop Making Sense", 
+          "Artist": "Talking Heads", 
+          "Number": "345", 
+          "Year": "1984", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Funk, Indie Rock, New Wave"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "1hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Muddy Waters at Newport 1960", 
+          "Artist": "Muddy Waters", 
+          "Number": "348", 
+          "Year": "1960", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Chicago Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "2RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Rust Never Sleeps", 
+          "Artist": "Neil Young & Crazy Horse", 
+          "Number": "351", 
+          "Year": "1979", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Arena Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Siamese Dream", 
+          "Artist": "The Smashing Pumpkins", 
+          "Number": "362", 
+          "Year": "1993", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "6hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Eagles", 
+          "Artist": "Eagles", 
+          "Number": "368", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Country Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Mott", 
+          "Artist": "Mott the Hoople", 
+          "Number": "370", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Modern Lovers", 
+          "Artist": "The Modern Lovers", 
+          "Number": "382", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "BhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "For Your Pleasure", 
+          "Artist": "Roxy Music", 
+          "Number": "396", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock, Avantgarde, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "FBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Time Out of Mind", 
+          "Artist": "Bob Dylan", 
+          "Number": "410", 
+          "Year": "1997", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "FxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Double Nickels on the Dime", 
+          "Artist": "Minutemen", 
+          "Number": "413", 
+          "Year": "1984", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Hardcore, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Sea Change", 
+          "Artist": "Beck", 
+          "Number": "436", 
+          "Year": "2002", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Post Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Tha Carter III", 
+          "Artist": "Lil Wayne", 
+          "Number": "437", 
+          "Year": "2008", 
+          "Genre": "Hip Hop, Funk/Soul", 
+          "Subgenre": "RnB/Swing, Screw, Pop Rap, Thug Rap"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "XhxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "All the Young Dudes", 
+          "Artist": "Mott the Hoople", 
+          "Number": "484", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "XxxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Vitalogy", 
+          "Artist": "Pearl Jam", 
+          "Number": "485", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "bBxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "The Stone Roses", 
+          "Artist": "The Stone Roses", 
+          "Number": "498", 
+          "Year": "1989", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Astral Weeks", 
+          "Artist": "Van Morrison", 
+          "Number": "19", 
+          "Year": "1968", 
+          "Genre": "Jazz, Rock, Blues, Folk, World, & Country", 
+          "Subgenre": "Acoustic, Classic Rock, Free Improvisation"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "lhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Who's Next", 
+          "Artist": "The Who", 
+          "Number": "28", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Mod, Prog Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Let It Bleed", 
+          "Artist": "The Rolling Stones", 
+          "Number": "32", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars", 
+          "Artist": "David Bowie", 
+          "Number": "35", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Hotel California", 
+          "Artist": "Eagles", 
+          "Number": "37", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Bridge Over Troubled Water", 
+          "Artist": "Simon & Garfunkel", 
+          "Number": "51", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "thxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Trout Mask Replica", 
+          "Artist": "Captain Beefheart & His Magic Band", 
+          "Number": "60", 
+          "Year": "1969", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "After the Gold Rush", 
+          "Artist": "Neil Young", 
+          "Number": "74", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "4BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Fresh Cream", 
+          "Artist": "Cream", 
+          "Number": "102", 
+          "Year": "1966", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Electric Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "8hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sweetheart of the Rodeo", 
+          "Artist": "The Byrds", 
+          "Number": "120", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Younger Than Yesterday", 
+          "Artist": "The Byrds", 
+          "Number": "127", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "CxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Aja", 
+          "Artist": "Steely Dan", 
+          "Number": "145", 
+          "Year": "1977", 
+          "Genre": "Jazz, Rock", 
+          "Subgenre": "Jazz-Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Surrealistic Pillow", 
+          "Artist": "Jefferson Airplane", 
+          "Number": "146", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Houses of the Holy", 
+          "Artist": "Led Zeppelin", 
+          "Number": "148", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "GRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Alive!", 
+          "Artist": "KISS", 
+          "Number": "159", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "IBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Imperial Bedroom", 
+          "Artist": "Elvis Costello & The Attractions", 
+          "Number": "166", 
+          "Year": "1982", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, New Wave"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "PxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Murmur", 
+          "Artist": "R.E.M.", 
+          "Number": "197", 
+          "Year": "1983", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "RhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Modern Times", 
+          "Artist": "Bob Dylan", 
+          "Number": "204", 
+          "Year": "2006", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "TRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Wish You Were Here", 
+          "Artist": "Pink Floyd", 
+          "Number": "211", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "bxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "All Killer No Filler! The Jerry Lee Lewis Anthology", 
+          "Artist": "Jerry Lee Lewis", 
+          "Number": "245", 
+          "Year": "1993", 
+          "Genre": "Rock, Blues, Folk, World, & Country", 
+          "Subgenre": "Country Blues, Rock&Roll, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "cBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Freak Out!", 
+          "Artist": "The Mothers of Invention", 
+          "Number": "246", 
+          "Year": "1966", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "cxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Automatic for the People", 
+          "Artist": "R.E.M.", 
+          "Number": "249", 
+          "Year": "1992", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "fxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "American Beauty", 
+          "Artist": "Grateful Dead", 
+          "Number": "261", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "hBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Child Is Father to the Man", 
+          "Artist": "Blood, Sweat & Tears", 
+          "Number": "266", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Jazz-Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ihxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Dig Me Out", 
+          "Artist": "Sleater Kinney", 
+          "Number": "272", 
+          "Year": "1997", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "oxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "We're Only in It for the Money", 
+          "Artist": "The Mothers of Invention", 
+          "Number": "297", 
+          "Year": "1968", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "pBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The College Dropout", 
+          "Artist": "Kanye West", 
+          "Number": "298", 
+          "Year": "2003", 
+          "Genre": "Hip Hop", 
+          "Subgenre": "Pop Rap, Conscious, Contemporary R&B"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "phxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Master of Reality", 
+          "Artist": "Black Sabbath", 
+          "Number": "300", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Heavy Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "thxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Velvet Underground", 
+          "Artist": "The Velvet Underground", 
+          "Number": "316", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Art Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "whxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Daydream Nation", 
+          "Artist": "Sonic Youth", 
+          "Number": "328", 
+          "Year": "1988", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "1RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Piper at the Gates of Dawn", 
+          "Artist": "Pink Floyd", 
+          "Number": "347", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Substance 1987", 
+          "Artist": "New Order", 
+          "Number": "363", 
+          "Year": "1987", 
+          "Genre": "Electronic", 
+          "Subgenre": "Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Quick One", 
+          "Artist": "The Who", 
+          "Number": "384", 
+          "Year": "1966", 
+          "Genre": "Rock", 
+          "Subgenre": "Mod, Beat, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "CRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Rain Dogs", 
+          "Artist": "Tom Waits", 
+          "Number": "399", 
+          "Year": "1985", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Radio City", 
+          "Artist": "Big Star", 
+          "Number": "405", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Power Pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "FRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "461 Ocean Boulevard", 
+          "Artist": "Eric Clapton", 
+          "Number": "411", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Stories From the City, Stories From the Sea", 
+          "Artist": "PJ Harvey", 
+          "Number": "431", 
+          "Year": "2000", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Here Come the Warm Jets", 
+          "Artist": "Brian Eno", 
+          "Number": "432", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock, Glam"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "#1 Record", 
+          "Artist": "Big Star", 
+          "Number": "434", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Power Pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Love It to Death", 
+          "Artist": "Alice Cooper", 
+          "Number": "454", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "SRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Heaven Up Here", 
+          "Artist": "Echo and The Bunnymen", 
+          "Number": "463", 
+          "Year": "1981", 
+          "Genre": "Rock", 
+          "Subgenre": "New Wave, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "WRxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Maggot Brain", 
+          "Artist": "Funkadelic", 
+          "Number": "479", 
+          "Year": "1971", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "P.Funk, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "YhxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "New Day Rising", 
+          "Artist": "Husker Du", 
+          "Number": "488", 
+          "Year": "1985", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Hardcore, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZBxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Tres hombres", 
+          "Artist": "ZZ Top", 
+          "Number": "490", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "gRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Exile on Main St.", 
+          "Artist": "The Rolling Stones", 
+          "Number": "7", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Rock&Roll, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "gxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Blonde on Blonde", 
+          "Artist": "Bob Dylan", 
+          "Number": "9", 
+          "Year": "1966", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Folk Rock, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "hxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Velvet Underground & Nico", 
+          "Artist": "The Velvet Underground", 
+          "Number": "13", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Art Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ihxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Blood on the Tracks", 
+          "Artist": "Bob Dylan", 
+          "Number": "16", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Acoustic, Ballad"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "lxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Led Zeppelin", 
+          "Artist": "Led Zeppelin", 
+          "Number": "29", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "oRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Please Please Me", 
+          "Artist": "The Beatles", 
+          "Number": "39", 
+          "Year": "1963", 
+          "Genre": "Rock", 
+          "Subgenre": "Beat, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "pBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Doors", 
+          "Artist": "The Doors", 
+          "Number": "42", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "shxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Elvis Presley", 
+          "Artist": "Elvis Presley", 
+          "Number": "56", 
+          "Year": "1956", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Rockabilly"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "tBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Beggars Banquet", 
+          "Artist": "The Rolling Stones", 
+          "Number": "58", 
+          "Year": "1968", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Blues Rock, Southern Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Moondance", 
+          "Artist": "Van Morrison", 
+          "Number": "66", 
+          "Year": "1970", 
+          "Genre": "Jazz, Rock, Funk/Soul, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "[Led Zeppelin IV]", 
+          "Artist": "Led Zeppelin", 
+          "Number": "69", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Classic Rock, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "zRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Axis: Bold as Love", 
+          "Artist": "The Jimi Hendrix Experience", 
+          "Number": "83", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Electric Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "6BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Loaded", 
+          "Artist": "The Velvet Underground", 
+          "Number": "110", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Disraeli Gears", 
+          "Artist": "Cream", 
+          "Number": "114", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Layla and Other Assorted Love Songs", 
+          "Artist": "Derek and the Dominos", 
+          "Number": "117", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "9hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Moby Grape", 
+          "Artist": "Moby Grape", 
+          "Number": "124", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Remain in Light", 
+          "Artist": "Talking Heads", 
+          "Number": "129", 
+          "Year": "1980", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "New Wave, Art Rock, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "AxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Tim", 
+          "Artist": "The Replacements", 
+          "Number": "137", 
+          "Year": "1985", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Santana", 
+          "Artist": "Santana", 
+          "Number": "149", 
+          "Year": "1969", 
+          "Genre": "Rock, Latin, Funk/Soul", 
+          "Subgenre": "Afro-Cuban, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ERxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Funeral", 
+          "Artist": "Arcade Fire", 
+          "Number": "151", 
+          "Year": "2004", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Rocks", 
+          "Artist": "Aerosmith", 
+          "Number": "176", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "PRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Blues Breakers With Eric Clapton (\"The Beano Album\")", 
+          "Artist": "John Mayall & The Bluesbreakers", 
+          "Number": "195", 
+          "Year": "1966", 
+          "Genre": "Rock,\u00caBlues", 
+          "Subgenre": "Blues Rock,\u00caElectric Blues,\u00caHarmonica Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Is This It", 
+          "Artist": "The Strokes", 
+          "Number": "199", 
+          "Year": "2001", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Highway to Hell", 
+          "Artist": "AC/DC", 
+          "Number": "200", 
+          "Year": "1979", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "TxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Tattoo You", 
+          "Artist": "The Rolling Stones", 
+          "Number": "213", 
+          "Year": "1981", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Bookends", 
+          "Artist": "Simon & Garfunkel", 
+          "Number": "234", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "gBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Crosby, Stills & Nash", 
+          "Artist": "Crosby, Stills & Nash", 
+          "Number": "262", 
+          "Year": "1969", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ghxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Workingman's Dead", 
+          "Artist": "Grateful Dead", 
+          "Number": "264", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "hRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Quadrophenia", 
+          "Artist": "The Who", 
+          "Number": "267", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Classic Rock, Mod"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "iBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Some Girls", 
+          "Artist": "The Rolling Stones", 
+          "Number": "270", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Rock&Roll, Classic Rock, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "qhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Grace", 
+          "Artist": "Jeff Buckley", 
+          "Number": "304", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Willy and the Poor Boys", 
+          "Artist": "Creedence Clearwater Revival", 
+          "Number": "309", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Rock&Roll, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "shxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Nothing's Shocking", 
+          "Artist": "Jane's Addiction", 
+          "Number": "312", 
+          "Year": "1988", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "MTV Unplugged in New York", 
+          "Artist": "Nirvana", 
+          "Number": "313", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Acoustic, Grunge"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Amnesiac", 
+          "Artist": "Radiohead", 
+          "Number": "320", 
+          "Year": "2001", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Alternative Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "2hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Brothers in Arms", 
+          "Artist": "Dire Straits", 
+          "Number": "352", 
+          "Year": "1985", 
+          "Genre": "Rock", 
+          "Subgenre": "AOR, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Whatever People Say I Am, That's What I'm Not", 
+          "Artist": "Arctic Monkeys", 
+          "Number": "371", 
+          "Year": "2006", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "7xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Volunteers", 
+          "Artist": "Jefferson Airplane", 
+          "Number": "373", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "9BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "(What's the Story) Morning Glory?", 
+          "Artist": "Oasis", 
+          "Number": "378", 
+          "Year": "1995", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Brit Pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "CxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Californication", 
+          "Artist": "Red Hot Chili Peppers", 
+          "Number": "401", 
+          "Year": "1999", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Funk Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "HhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The \"Chirping\" Crickets", 
+          "Artist": "The Crickets", 
+          "Number": "420", 
+          "Year": "1957", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Rockabilly, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "MhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Rum Sodomy & the Lash", 
+          "Artist": "The Pogues", 
+          "Number": "440", 
+          "Year": "1985", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Celtic, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Z", 
+          "Artist": "My Morning Jacket", 
+          "Number": "457", 
+          "Year": "2005", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "RBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Tumbleweed Connection", 
+          "Artist": "Elton John", 
+          "Number": "458", 
+          "Year": "1970", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Soft Rock, Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ShxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Hysteria", 
+          "Artist": "Def Leppard", 
+          "Number": "464", 
+          "Year": "1987", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Arena Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "URxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "I Want to See the Bright Lights Tonight", 
+          "Artist": "Richard & Linda Thompson", 
+          "Number": "471", 
+          "Year": "1974", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZhxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Touch", 
+          "Artist": "Eurythmics", 
+          "Number": "492", 
+          "Year": "1983", 
+          "Genre": "Electronic, Pop", 
+          "Subgenre": "New Wave, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "exxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band", 
+          "Artist": "The Beatles", 
+          "Number": "1", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ixxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Nevermind", 
+          "Artist": "Nirvana", 
+          "Number": "17", 
+          "Year": "1991", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Grunge"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Great Twenty_Eight", 
+          "Artist": "Chuck Berry", 
+          "Number": "21", 
+          "Year": "1982", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Bringing It All Back Home", 
+          "Artist": "Bob Dylan", 
+          "Number": "31", 
+          "Year": "1965", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Folk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Ramones", 
+          "Artist": "Ramones", 
+          "Number": "33", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "pRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Dark Side of the Moon", 
+          "Artist": "Pink Floyd", 
+          "Number": "43", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "phxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Horses", 
+          "Artist": "Patti Smith", 
+          "Number": "44", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Art Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Here's Little Richard", 
+          "Artist": "Little Richard", 
+          "Number": "50", 
+          "Year": "1957", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Rock&Roll, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Sticky Fingers", 
+          "Artist": "The Rolling Stones", 
+          "Number": "64", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "yRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Led Zeppelin II", 
+          "Artist": "Led Zeppelin", 
+          "Number": "79", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Classic Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "zBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Harvest", 
+          "Artist": "Neil Young", 
+          "Number": "82", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "1hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "20 Golden Greats", 
+          "Artist": "Buddy Holly", 
+          "Number": "92", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "3hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Odessey and Oracle", 
+          "Artist": "The Zombies", 
+          "Number": "100", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "9xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Pearl", 
+          "Artist": "Janis Joplin", 
+          "Number": "125", 
+          "Year": "1971", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-hxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Raw Power", 
+          "Artist": "Iggy and The Stooges", 
+          "Number": "128", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Hard Rock, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "JBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Live at Leeds", 
+          "Artist": "The Who", 
+          "Number": "170", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock, Blues Rock, Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Desire", 
+          "Artist": "Bob Dylan", 
+          "Number": "174", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Definitive Collection", 
+          "Artist": "ABBA", 
+          "Number": "179", 
+          "Year": "2001", 
+          "Genre": "Electronic, Pop", 
+          "Subgenre": "Europop, Synth-pop, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "NhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Buffalo Springfield Again", 
+          "Artist": "Buffalo Springfield", 
+          "Number": "188", 
+          "Year": "1967", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ORxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Fun House", 
+          "Artist": "The Stooges", 
+          "Number": "191", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "PhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968", 
+          "Artist": "Various Artists", 
+          "Number": "196", 
+          "Year": "1998", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock,\u00caPsychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "TBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Everybody Knows This Is Nowhere", 
+          "Artist": "Neil Young & Crazy Horse", 
+          "Number": "210", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ThxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Crooked Rain Crooked Rain", 
+          "Artist": "Pavement", 
+          "Number": "212", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "WhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Neil Diamond Collection", 
+          "Artist": "Neil Diamond", 
+          "Number": "224", 
+          "Year": "1999", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Soft Rock, Ballad"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "XRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Doolittle", 
+          "Artist": "Pixies", 
+          "Number": "227", 
+          "Year": "1989", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "bRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Black Sabbath", 
+          "Artist": "Black Sabbath", 
+          "Number": "243", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Heavy Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "cRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Live/Dead", 
+          "Artist": "The Grateful Dead", 
+          "Number": "247", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock, Psychedelic Rock, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "exxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Whitney Houston", 
+          "Artist": "Whitney Houston", 
+          "Number": "257", 
+          "Year": "1985", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Synth-pop, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Basement Tapes", 
+          "Artist": "Bob Dylan and the Band", 
+          "Number": "292", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "oBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Kick Out the Jams", 
+          "Artist": "MC5", 
+          "Number": "294", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Hard Rock, Punk, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "oRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Songs of Love and Hate", 
+          "Artist": "Leonard Cohen", 
+          "Number": "295", 
+          "Year": "1970", 
+          "Genre": "Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Folk, Ballad"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ohxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Meat Is Murder", 
+          "Artist": "The Smiths", 
+          "Number": "296", 
+          "Year": "1985", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Tonight's the Night", 
+          "Artist": "Neil Young", 
+          "Number": "330", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Folk Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Shoot Out the Lights", 
+          "Artist": "Richard & Linda Thompson", 
+          "Number": "332", 
+          "Year": "1982", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Folk Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Berlin", 
+          "Artist": "Lou Reed", 
+          "Number": "344", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "L.A. Woman", 
+          "Artist": "The Doors", 
+          "Number": "364", 
+          "Year": "1971", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "More Songs About Buildings and Food", 
+          "Artist": "Talking Heads", 
+          "Number": "383", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "New Wave, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "EBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Rid of Me", 
+          "Artist": "PJ Harvey", 
+          "Number": "406", 
+          "Year": "1993", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ERxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Sandinista!", 
+          "Artist": "The Clash", 
+          "Number": "407", 
+          "Year": "1980", 
+          "Genre": "Rock, Reggae", 
+          "Subgenre": "Rock&Roll, Dub, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "IxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Grievous Angel", 
+          "Artist": "Gram Parsons", 
+          "Number": "425", 
+          "Year": "1974", 
+          "Genre": "Rock, Folk, World, & Country", 
+          "Subgenre": "Country Rock, Honky Tonk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "JhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Outlandos d'Amour", 
+          "Artist": "The Police", 
+          "Number": "428", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, New Wave, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "In Utero", 
+          "Artist": "Nirvana", 
+          "Number": "435", 
+          "Year": "1993", 
+          "Genre": "Rock", 
+          "Subgenre": "Grunge, Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "How Will the Wolf Survive?", 
+          "Artist": "Los Lobos", 
+          "Number": "455", 
+          "Year": "1984", 
+          "Genre": "Rock, Latin", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ThxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Paul Butterfield Blues Band", 
+          "Artist": "The Paul Butterfield Blues Band", 
+          "Number": "468", 
+          "Year": "1965", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "YxxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Destroyer", 
+          "Artist": "KISS", 
+          "Number": "489", 
+          "Year": "1976", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "aRxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Give It Up", 
+          "Artist": "Bonnie Raitt", 
+          "Number": "495", 
+          "Year": "1972", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "axxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "White Blood Cells", 
+          "Artist": "The White Stripes", 
+          "Number": "497", 
+          "Year": "2001", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock, Alternative Rock, Blues Rock, Garage Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Tapestry", 
+          "Artist": "Carole King", 
+          "Number": "36", 
+          "Year": "1971", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Folk Rock, Soft Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ohxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Forever Changes", 
+          "Artist": "Love", 
+          "Number": "40", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Electric Ladyland", 
+          "Artist": "The Jimi Hendrix Experience", 
+          "Number": "55", 
+          "Year": "1968", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Electric Blues, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Kid A", 
+          "Artist": "Radiohead", 
+          "Number": "67", 
+          "Year": "2000", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Alternative Rock, IDM, Experimental"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Back in Black", 
+          "Artist": "AC/DC", 
+          "Number": "77", 
+          "Year": "1980", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Wall", 
+          "Artist": "Pink Floyd", 
+          "Number": "87", 
+          "Year": "1979", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Prog Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Rocket to Russia", 
+          "Artist": "Ramones", 
+          "Number": "106", 
+          "Year": "1977", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Deja vu", 
+          "Artist": "Crosby, Stills, Nash & Young", 
+          "Number": "147", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "FRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Pretenders", 
+          "Artist": "Pretenders", 
+          "Number": "155", 
+          "Year": "1980", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, New Wave"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "HBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "OK Computer", 
+          "Artist": "Radiohead", 
+          "Number": "162", 
+          "Year": "1997", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "MxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Stooges", 
+          "Artist": "The Stooges", 
+          "Number": "185", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "NxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Happy Trails", 
+          "Artist": "Quicksilver Messenger Service", 
+          "Number": "189", 
+          "Year": "1969", 
+          "Genre": "Rock", 
+          "Subgenre": "Acid Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "RxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Wheels of Fire", 
+          "Artist": "Cream", 
+          "Number": "205", 
+          "Year": "1968", 
+          "Genre": "Rock, Blues", 
+          "Subgenre": "Blues Rock, Psychedelic Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "VBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Queen Is Dead", 
+          "Artist": "The Smiths", 
+          "Number": "218", 
+          "Year": "1986", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "XxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Toys in the Attic", 
+          "Artist": "Aerosmith", 
+          "Number": "229", 
+          "Year": "1975", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "aRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Like a Prayer", 
+          "Artist": "Madonna", 
+          "Number": "239", 
+          "Year": "1989", 
+          "Genre": "Electronic, Pop", 
+          "Subgenre": "Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Rhythm Nation 1814", 
+          "Artist": "Janet Jackson", 
+          "Number": "277", 
+          "Year": "1989", 
+          "Genre": "Electronic, Hip Hop, Pop", 
+          "Subgenre": "RnB/Swing, Downtempo, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "qRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "John Wesley Harding", 
+          "Artist": "Bob Dylan", 
+          "Number": "303", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Country Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Blood Sugar Sex Magik", 
+          "Artist": "Red Hot Chili Peppers", 
+          "Number": "310", 
+          "Year": "1991", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Funk Metal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Sun Records Collection", 
+          "Artist": "Various", 
+          "Number": "311", 
+          "Year": "1994", 
+          "Genre": "Rock, Funk/Soul, Blues, Pop, Folk, World, & Country", 
+          "Subgenre": "Country Blues, Rock&Roll, Rockabilly"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "txxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Surfer Rosa", 
+          "Artist": "Pixies", 
+          "Number": "317", 
+          "Year": "1988", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "wBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Disintegration", 
+          "Artist": "The Cure", 
+          "Number": "326", 
+          "Year": "1989", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "New Wave, Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Wild Gift", 
+          "Artist": "X", 
+          "Number": "333", 
+          "Year": "1981", 
+          "Genre": "Rock", 
+          "Subgenre": "Rock&Roll, Punk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "yRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Superunknown", 
+          "Artist": "Soundgarden", 
+          "Number": "335", 
+          "Year": "1994", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "yhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "In Rainbows", 
+          "Artist": "Radiohead", 
+          "Number": "336", 
+          "Year": "2007", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Alternative Rock, Art Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "zBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Cheap Thrills", 
+          "Artist": "Big Brother & the Holding Company", 
+          "Number": "338", 
+          "Year": "1968", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Blues Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0BxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Violator", 
+          "Artist": "Depeche Mode", 
+          "Number": "342", 
+          "Year": "1990", 
+          "Genre": "Electronic", 
+          "Subgenre": "Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "3RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Having a Rave Up", 
+          "Artist": "The Yardbirds", 
+          "Number": "355", 
+          "Year": "1965", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "6xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Louder Than Bombs", 
+          "Artist": "The Smiths", 
+          "Number": "369", 
+          "Year": "1987", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock, Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "-xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "\"Love and Theft\"", 
+          "Artist": "Bob Dylan", 
+          "Number": "385", 
+          "Year": "2001", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Blues Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ABxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Elephant", 
+          "Artist": "The White Stripes", 
+          "Number": "390", 
+          "Year": "2003", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Garage Rock, Alternative Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "BRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Sound of Silver", 
+          "Artist": "LCD Soundsystem", 
+          "Number": "395", 
+          "Year": "2007", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Leftfield, Alternative Rock, Electro, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "(pronounced 'leh-'nerd 'skin-'nerd)", 
+          "Artist": "Lynyrd Skynyrd", 
+          "Number": "403", 
+          "Year": "1973", 
+          "Genre": "Rock", 
+          "Subgenre": "Blues Rock, Hard Rock, Southern Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "EhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "I Do Not Want What I Haven't Got", 
+          "Artist": "Sinead O'Connor", 
+          "Number": "408", 
+          "Year": "1989", 
+          "Genre": "Rock, Funk/Soul, Blues", 
+          "Subgenre": "Blues Rock, Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ExxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Strange Days", 
+          "Artist": "The Doors", 
+          "Number": "409", 
+          "Year": "1967", 
+          "Genre": "Rock", 
+          "Subgenre": "Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "GRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Van Halen", 
+          "Artist": "Van Halen", 
+          "Number": "415", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Hard Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "GhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Mule Variations", 
+          "Artist": "Tom Waits", 
+          "Number": "416", 
+          "Year": "1999", 
+          "Genre": "Electronic, Rock", 
+          "Subgenre": "Abstract, Art Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "IBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Presenting the Fabulous Ronettes Featuring Veronica", 
+          "Artist": "The Ronettes", 
+          "Number": "422", 
+          "Year": "1963", 
+          "Genre": "Rock, Pop", 
+          "Subgenre": "Rock&Roll, Vocal"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "IhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Rising", 
+          "Artist": "Bruce Springsteen", 
+          "Number": "424", 
+          "Year": "2002", 
+          "Genre": "Rock", 
+          "Subgenre": "Folk Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Vampire Weekend", 
+          "Artist": "Vampire Weekend", 
+          "Number": "430", 
+          "Year": "2007", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "OBxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Back in the USA", 
+          "Artist": "MC5", 
+          "Number": "446", 
+          "Year": "1970", 
+          "Genre": "Rock", 
+          "Subgenre": "Garage Rock, Rock&Roll"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "OxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Third/Sister Lovers", 
+          "Artist": "Big Star", 
+          "Number": "449", 
+          "Year": "1978", 
+          "Genre": "Rock", 
+          "Subgenre": "Lo-Fi,\u00caIndie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "TxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Score", 
+          "Artist": "Fugees", 
+          "Number": "469", 
+          "Year": "1996", 
+          "Genre": "Hip Hop", 
+          "Subgenre": "Pop Rap, Conscious"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "UxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Smiths", 
+          "Artist": "The Smiths", 
+          "Number": "473", 
+          "Year": "1984", 
+          "Genre": "Rock", 
+          "Subgenre": "Indie Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZxxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Yankee Hotel Foxtrot", 
+          "Artist": "Wilco", 
+          "Number": "493", 
+          "Year": "2002", 
+          "Genre": "Rock", 
+          "Subgenre": "Alternative Rock"
+        }, 
+        "_index": "songs"
+      }
+    ], 
+    "total": 325, 
+    "max_score": 2.0
+  }, 
+  "_shards": {
+    "successful": 5, 
+    "failed": 0, 
+    "skipped": 0, 
+    "total": 5
+  }, 
+  "took": 6, 
+  "timed_out": false
+}

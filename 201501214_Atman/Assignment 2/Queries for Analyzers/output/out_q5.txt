@@ -1,0 +1,1136 @@
+{
+  "hits": {
+    "hits": [
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "gBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "What's Going On", 
+          "Artist": "Marvin Gaye", 
+          "Number": "6", 
+          "Year": "1971", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Thriller", 
+          "Artist": "Michael Jackson", 
+          "Number": "20", 
+          "Year": "1982", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "kxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Live at the Apollo, 1962", 
+          "Artist": "James Brown", 
+          "Number": "25", 
+          "Year": "1963", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "zhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "I Never Loved a Man the Way I Love You", 
+          "Artist": "Aretha Franklin", 
+          "Number": "84", 
+          "Year": "1967", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "zxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Lady Soul", 
+          "Artist": "Aretha Franklin", 
+          "Number": "85", 
+          "Year": "1968", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "CBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "A Christmas Gift for You From Phil Spector", 
+          "Artist": "Phil Spector", 
+          "Number": "142", 
+          "Year": "1963", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Pop Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "KxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "One Nation Under a Groove", 
+          "Artist": "Funkadelic", 
+          "Number": "177", 
+          "Year": "1978", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "P.Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "NRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "So", 
+          "Artist": "Peter Gabriel", 
+          "Number": "187", 
+          "Year": "1986", 
+          "Genre": "Electronic, Rock, Funk/Soul, Pop", 
+          "Subgenre": "Art Rock, Pop Rock, Synth-pop, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "OBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "From Elvis in Memphis", 
+          "Artist": "Elvis Presley", 
+          "Number": "190", 
+          "Year": "1969", 
+          "Genre": "Rock, Funk/Soul, Folk, World, & Country", 
+          "Subgenre": "Country, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "eBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul", 
+          "Artist": "Otis Redding", 
+          "Number": "254", 
+          "Year": "1966", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Back Stabbers", 
+          "Artist": "The O'Jays", 
+          "Number": "318", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Station to Station", 
+          "Artist": "David Bowie", 
+          "Number": "324", 
+          "Year": "1976", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Classic Rock, Soul, Funk, Art Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "wxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "In the Jungle Groove", 
+          "Artist": "James Brown", 
+          "Number": "329", 
+          "Year": "1986", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Stop Making Sense", 
+          "Artist": "Talking Heads", 
+          "Number": "345", 
+          "Year": "1984", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Funk, Indie Rock, New Wave"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "IRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Anthology", 
+          "Artist": "Diana Ross & The Supremes", 
+          "Number": "423", 
+          "Year": "2001", 
+          "Genre": "Electronic, Funk/Soul", 
+          "Subgenre": "Pop Rock, Soul, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LxxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Tha Carter III", 
+          "Artist": "Lil Wayne", 
+          "Number": "437", 
+          "Year": "2008", 
+          "Genre": "Hip Hop, Funk/Soul", 
+          "Subgenre": "RnB/Swing, Screw, Pop Rap, Thug Rap"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "NhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The World Is a Ghetto", 
+          "Artist": "War", 
+          "Number": "444", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "uxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Back to Mono (1958-1969)", 
+          "Artist": "Phil Spector", 
+          "Number": "65", 
+          "Year": "1991", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Doo Wop, Pop Rock, Ballad, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "wRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Graceland", 
+          "Artist": "Paul Simon", 
+          "Number": "71", 
+          "Year": "1986", 
+          "Genre": "Jazz, Rock, Funk/Soul, Pop, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xRxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Star Time", 
+          "Artist": "James Brown", 
+          "Number": "75", 
+          "Year": "1991", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Funk, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "HRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "1999", 
+          "Artist": "Prince", 
+          "Number": "163", 
+          "Year": "1982", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "None"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "SBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Dirty Mind", 
+          "Artist": "Prince", 
+          "Number": "206", 
+          "Year": "1980", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "None"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "fRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Velvet Rope", 
+          "Artist": "Janet", 
+          "Number": "259", 
+          "Year": "1997", 
+          "Genre": "Electronic, Funk/Soul, Pop", 
+          "Subgenre": "RnB/Swing, Downtempo"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "lRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Can't Get Enough", 
+          "Artist": "Barry White", 
+          "Number": "283", 
+          "Year": "1974", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "lxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Music of My Mind", 
+          "Artist": "Stevie Wonder", 
+          "Number": "285", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul-Jazz, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "mBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "I'm Still in Love With You", 
+          "Artist": "Al Green", 
+          "Number": "286", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "nBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Call Me", 
+          "Artist": "Al Green", 
+          "Number": "290", 
+          "Year": "1973", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "4xxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Stankonia", 
+          "Artist": "OutKast", 
+          "Number": "361", 
+          "Year": "2000", 
+          "Genre": "Hip Hop, Funk/Soul", 
+          "Subgenre": "Gangsta, P.Funk, Crunk, Conscious"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "9RxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "CrazySexyCool", 
+          "Artist": "TLC", 
+          "Number": "379", 
+          "Year": "1994", 
+          "Genre": "Electronic, Hip Hop, Funk/Soul", 
+          "Subgenre": "RnB/Swing"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "_hxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Indestructible Beat of Soweto", 
+          "Artist": "Various Artists", 
+          "Number": "388", 
+          "Year": "1985", 
+          "Genre": "Funk/Soul,\u00caFolk, World, & Country", 
+          "Subgenre": "African"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Dr. John's Gumbo", 
+          "Artist": "Dr. John", 
+          "Number": "404", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Bayou Funk, Funk, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "RRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "The Drifters' Golden Hits", 
+          "Artist": "The Drifters", 
+          "Number": "459", 
+          "Year": "1968", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "UhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Faith", 
+          "Artist": "George Michael", 
+          "Number": "472", 
+          "Year": "1987", 
+          "Genre": "Electronic, Rock, Funk/Soul, Blues, Pop", 
+          "Subgenre": "Downtempo, Soft Rock, Pop Rock, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "WRxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Maggot Brain", 
+          "Artist": "Funkadelic", 
+          "Number": "479", 
+          "Year": "1971", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "P.Funk, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "YBxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "That's the Way of the World", 
+          "Artist": "Earth, Wind & Fire", 
+          "Number": "486", 
+          "Year": "1975", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Funk, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZRxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Born Under a Bad Sign", 
+          "Artist": "Albert King", 
+          "Number": "491", 
+          "Year": "1967", 
+          "Genre": "Funk/Soul, Blues", 
+          "Subgenre": "Electric Blues, Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "tBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Beggars Banquet", 
+          "Artist": "The Rolling Stones", 
+          "Number": "58", 
+          "Year": "1968", 
+          "Genre": "Rock, Funk/Soul, Pop", 
+          "Subgenre": "Blues Rock, Southern Rock, Classic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Moondance", 
+          "Artist": "Van Morrison", 
+          "Number": "66", 
+          "Year": "1970", 
+          "Genre": "Jazz, Rock, Funk/Soul, Folk, World, & Country", 
+          "Subgenre": "Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "vhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Off the Wall", 
+          "Artist": "Michael Jackson", 
+          "Number": "68", 
+          "Year": "1979", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Disco, Soul, Ballad"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "4xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Modern Sounds in Country and Western Music", 
+          "Artist": "Ray Charles", 
+          "Number": "105", 
+          "Year": "1962", 
+          "Genre": "Funk/Soul, Folk, World, & Country", 
+          "Subgenre": "Country, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "8RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "At Last!", 
+          "Artist": "Etta James", 
+          "Number": "119", 
+          "Year": "1960", 
+          "Genre": "Funk/Soul, Blues", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "DxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Santana", 
+          "Artist": "Santana", 
+          "Number": "149", 
+          "Year": "1969", 
+          "Genre": "Rock, Latin, Funk/Soul", 
+          "Subgenre": "Afro-Cuban, Psychedelic Rock"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "UBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Proud Mary: The Best of Ike and Tina Turner", 
+          "Artist": "Ike & Tina Turner", 
+          "Number": "214", 
+          "Year": "1991", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Bayou Funk, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "VhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Look-Ka Py Py", 
+          "Artist": "The Meters", 
+          "Number": "220", 
+          "Year": "1970", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Bayou Funk, Soul, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Mothership Connection", 
+          "Artist": "Parliament", 
+          "Number": "276", 
+          "Year": "1975", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "P.Funk, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "PRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Back to Black", 
+          "Artist": "Amy Winehouse", 
+          "Number": "451", 
+          "Year": "2006", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sxxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Songs in the Key of Life", 
+          "Artist": "Stevie Wonder", 
+          "Number": "57", 
+          "Year": "1976", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "xhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Purple Rain", 
+          "Artist": "Prince and the Revolution", 
+          "Number": "76", 
+          "Year": "1984", 
+          "Genre": "Electronic, Rock, Funk/Soul, Stage & Screen", 
+          "Subgenre": "Pop Rock, Funk, Soundtrack, Synth-pop"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "yBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Otis Blue: Otis Redding Sings Soul", 
+          "Artist": "Otis Redding", 
+          "Number": "78", 
+          "Year": "1965", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "0xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Dusty in Memphis", 
+          "Artist": "Dusty Springfield", 
+          "Number": "89", 
+          "Year": "1969", 
+          "Genre": "Rock, Funk/Soul", 
+          "Subgenre": "Pop Rock, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "3RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "There's a Riot Goin' On", 
+          "Artist": "Sly & The Family Stone", 
+          "Number": "99", 
+          "Year": "1971", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "LBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Anthology: 1961-1977", 
+          "Artist": "Curtis Mayfield and The Impressions", 
+          "Number": "178", 
+          "Year": "1992", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "NBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Fresh", 
+          "Artist": "Sly & The Family Stone", 
+          "Number": "186", 
+          "Year": "1973", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "RRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Bad", 
+          "Artist": "Michael Jackson", 
+          "Number": "203", 
+          "Year": "1987", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Pop Rock, Ballad, Funk, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ZhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Mr. Excitement!", 
+          "Artist": "Jackie Wilson", 
+          "Number": "236", 
+          "Year": "1992", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "None"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "exxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Whitney Houston", 
+          "Artist": "Whitney Houston", 
+          "Number": "257", 
+          "Year": "1985", 
+          "Genre": "Funk/Soul, Pop", 
+          "Subgenre": "Synth-pop, Rhythm & Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "jBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Nightbirds", 
+          "Artist": "LaBelle", 
+          "Number": "274", 
+          "Year": "1974", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Funk, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Odelay", 
+          "Artist": "Beck", 
+          "Number": "306", 
+          "Year": "1996", 
+          "Genre": "Electronic, Hip Hop, Funk/Soul, Pop", 
+          "Subgenre": "Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ChxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Anthology: The Best of The Temptations", 
+          "Artist": "The Temptations", 
+          "Number": "400", 
+          "Year": "1995", 
+          "Genre": "Electronic, Funk/Soul", 
+          "Subgenre": "Soul, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "QhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Here, My Dear", 
+          "Artist": "Marvin Gaye", 
+          "Number": "456", 
+          "Year": "1978", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "WxxVPmEBs5yZUQP-iWMn", 
+        "_source": {
+          "Album": "Voodoo", 
+          "Artist": "D'Angelo", 
+          "Number": "481", 
+          "Year": "2000", 
+          "Genre": "Hip Hop, Funk/Soul", 
+          "Subgenre": "Soul, Funk, Neo Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "khxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Innervisions", 
+          "Artist": "Stevie Wonder", 
+          "Number": "24", 
+          "Year": "1973", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "rhxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Greatest Hits", 
+          "Artist": "Al Green", 
+          "Number": "52", 
+          "Year": "1975", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sBxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "The Birth of Soul", 
+          "Artist": "Ray Charles", 
+          "Number": "54", 
+          "Year": "1991", 
+          "Genre": "Jazz, Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Big Band, Soul, Soul-Jazz"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "txxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Greatest Hits", 
+          "Artist": "Sly & The Family Stone", 
+          "Number": "61", 
+          "Year": "1970", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "whxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Superfly", 
+          "Artist": "Curtis Mayfield", 
+          "Number": "72", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul, Stage & Screen", 
+          "Subgenre": "Soundtrack, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "1BxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Talking Book", 
+          "Artist": "Stevie Wonder", 
+          "Number": "90", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul, Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "5RxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Portrait of a Legend 1951-1964", 
+          "Artist": "Sam Cooke", 
+          "Number": "107", 
+          "Year": "2003", 
+          "Genre": "Latin, Funk/Soul", 
+          "Subgenre": "Soul, Rhythm & Blues, Gospel, Cha-Cha"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "8xxVPmEBs5yZUQP-iWEm", 
+        "_source": {
+          "Album": "Stand!", 
+          "Artist": "Sly & The Family Stone", 
+          "Number": "121", 
+          "Year": "1969", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Funk, Psychedelic, Disco"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "BRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Rejuvenation", 
+          "Artist": "The Meters", 
+          "Number": "139", 
+          "Year": "1974", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Bayou Funk, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "CRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Gris-Gris", 
+          "Artist": "Dr. John, the Night Tripper", 
+          "Number": "143", 
+          "Year": "1968", 
+          "Genre": "Jazz, Rock, Funk/Soul, Blues", 
+          "Subgenre": "Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "FhxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Paul's Boutique", 
+          "Artist": "Beastie Boys", 
+          "Number": "156", 
+          "Year": "1989", 
+          "Genre": "Hip Hop, Rock, Funk/Soul", 
+          "Subgenre": "Alternative Rock, Pop Rap, Psychedelic"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "GxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Dock of the Bay", 
+          "Artist": "Otis Redding", 
+          "Number": "161", 
+          "Year": "1968", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "HxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Let's Get It On", 
+          "Artist": "Marvin Gaye", 
+          "Number": "165", 
+          "Year": "1973", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "UxxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Two Steps From the Blues", 
+          "Artist": "Bobby \"Blue\" Bland", 
+          "Number": "217", 
+          "Year": "1961", 
+          "Genre": "Funk/Soul, Blues", 
+          "Subgenre": "Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "WBxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "New Orleans Piano", 
+          "Artist": "Professor Longhair", 
+          "Number": "222", 
+          "Year": "1972", 
+          "Genre": "Funk/Soul, Blues", 
+          "Subgenre": "Piano Blues"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "ixxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "Going to a Go-Go", 
+          "Artist": "Smokey Robinson & The Miracles", 
+          "Number": "273", 
+          "Year": "1966", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "sRxVPmEBs5yZUQP-iWIm", 
+        "_source": {
+          "Album": "The Sun Records Collection", 
+          "Artist": "Various", 
+          "Number": "311", 
+          "Year": "1994", 
+          "Genre": "Rock, Funk/Soul, Blues, Pop, Folk, World, & Country", 
+          "Subgenre": "Country Blues, Rock&Roll, Rockabilly"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "EhxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "I Do Not Want What I Haven't Got", 
+          "Artist": "Sinead O'Connor", 
+          "Number": "408", 
+          "Year": "1989", 
+          "Genre": "Rock, Funk/Soul, Blues", 
+          "Subgenre": "Blues Rock, Rhythm & Blues, Soul"
+        }, 
+        "_index": "songs"
+      }, 
+      {
+        "_score": 1.0, 
+        "_type": "album", 
+        "_id": "MRxVPmEBs5yZUQP-iWMm", 
+        "_source": {
+          "Album": "Live at the Harlem Square Club, 1963", 
+          "Artist": "Sam Cooke", 
+          "Number": "439", 
+          "Year": "1985", 
+          "Genre": "Funk/Soul", 
+          "Subgenre": "Soul"
+        }, 
+        "_index": "songs"
+      }
+    ], 
+    "total": 80, 
+    "max_score": 1.0
+  }, 
+  "_shards": {
+    "successful": 5, 
+    "failed": 0, 
+    "skipped": 0, 
+    "total": 5
+  }, 
+  "took": 2, 
+  "timed_out": false
+}
