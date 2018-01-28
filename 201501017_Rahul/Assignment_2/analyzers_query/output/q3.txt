@@ -1,0 +1,156 @@
+{
+  "took": 1,
+  "timed_out": false,
+  "_shards": {
+    "failed": 0,
+    "total": 5,
+    "successful": 5,
+    "skipped": 0
+  },
+  "hits": {
+    "max_score": 3.8877304,
+    "total": 10,
+    "hits": [
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Stage & Screen",
+          "Year": "1964",
+          "Number": "307",
+          "Subgenre": "Soundtrack, Beat, Pop Rock",
+          "Album": "A Hard Day's Night",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfl9",
+        "_score": 3.8877304
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1970",
+          "Number": "392",
+          "Subgenre": "Pop Rock",
+          "Album": "Let It Be",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfnS",
+        "_score": 3.8877304
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1967",
+          "Number": "1",
+          "Subgenre": "Rock&Roll, Psychedelic Rock",
+          "Album": "Sgt. Pepper's Lonely Hearts Club Band",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhL",
+        "_score": 3.6686766
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1968",
+          "Number": "10",
+          "Subgenre": "Rock&Roll, Pop Rock, Psychedelic Rock, Experimental",
+          "Album": "The Beatles (\"The White Album\")",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhU",
+        "_score": 3.6686766
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Pop",
+          "Year": "1965",
+          "Number": "5",
+          "Subgenre": "Pop Rock",
+          "Album": "Rubber Soul",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhP",
+        "_score": 3.5496173
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1963",
+          "Number": "39",
+          "Subgenre": "Beat, Rock&Roll",
+          "Album": "Please Please Me",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhx",
+        "_score": 3.5496173
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1966",
+          "Number": "3",
+          "Subgenre": "Psychedelic Rock, Pop Rock",
+          "Album": "Revolver",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhN",
+        "_score": 3.149883
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1969",
+          "Number": "14",
+          "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock",
+          "Album": "Abbey Road",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfhY",
+        "_score": 3.149883
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock",
+          "Year": "1964",
+          "Number": "53",
+          "Subgenre": "Beat, Rock&Roll",
+          "Album": "Meet The Beatles!",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4ALWdmImIOhfh_",
+        "_score": 3.149883
+      },
+      {
+        "_index": "songs",
+        "_type": "album",
+        "_source": {
+          "Genre": "Rock, Stage & Screen",
+          "Year": "1965",
+          "Number": "331",
+          "Subgenre": "Beat, Soundtrack, Pop Rock",
+          "Album": "Help!",
+          "Artist": "The Beatles"
+        },
+        "_id": "AWE9sn4BLWdmImIOhfmV",
+        "_score": 3.149883
+      }
+    ]
+  }
+}
