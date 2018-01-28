@@ -1,0 +1,30 @@
+{
+  "timed_out": false,
+  "_shards": {
+    "skipped": 0,
+    "total": 5,
+    "failed": 0,
+    "successful": 5
+  },
+  "took": 1,
+  "hits": {
+    "max_score": 20.213373,
+    "total": 1,
+    "hits": [
+      {
+        "_source": {
+          "Artist": "The Clash",
+          "Number": "8",
+          "Subgenre": "Punk, New Wave",
+          "Year": "1979",
+          "Genre": "Rock",
+          "Album": "London Calling"
+        },
+        "_score": 20.213373,
+        "_type": "album",
+        "_index": "songs",
+        "_id": "AWE9sn4ALWdmImIOhfhS"
+      }
+    ]
+  }
+}

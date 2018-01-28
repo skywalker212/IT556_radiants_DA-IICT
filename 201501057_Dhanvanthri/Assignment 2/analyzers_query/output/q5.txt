@@ -1,0 +1,156 @@
+{
+  "took": 1,
+  "_shards": {
+    "successful": 5,
+    "failed": 0,
+    "total": 5,
+    "skipped": 0
+  },
+  "hits": {
+    "max_score": 1.2991426,
+    "hits": [
+      {
+        "_id": "AWE9sn4ALWdmImIOhfhQ",
+        "_index": "songs",
+        "_score": 1.2991426,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "6",
+          "Year": "1971",
+          "Artist": "Marvin Gaye",
+          "Subgenre": "Soul",
+          "Album": "What's Going On"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfjD",
+        "_index": "songs",
+        "_score": 1.2991426,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "121",
+          "Year": "1969",
+          "Artist": "Sly & The Family Stone",
+          "Subgenre": "Funk, Psychedelic, Disco",
+          "Album": "Stand!"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfjV",
+        "_index": "songs",
+        "_score": 1.2991426,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "139",
+          "Year": "1974",
+          "Artist": "The Meters",
+          "Subgenre": "Bayou Funk, Soul",
+          "Album": "Rejuvenation"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhflc",
+        "_index": "songs",
+        "_score": 1.2991426,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "274",
+          "Year": "1974",
+          "Artist": "LaBelle",
+          "Subgenre": "Funk, Disco",
+          "Album": "Nightbirds"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfln",
+        "_index": "songs",
+        "_score": 1.2991426,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "285",
+          "Year": "1972",
+          "Artist": "Stevie Wonder",
+          "Subgenre": "Soul-Jazz, Soul",
+          "Album": "Music of My Mind"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4ALWdmImIOhfiV",
+        "_index": "songs",
+        "_score": 1.2594334,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "75",
+          "Year": "1991",
+          "Artist": "James Brown",
+          "Subgenre": "Soul, Funk, Disco",
+          "Album": "Star Time"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfkm",
+        "_index": "songs",
+        "_score": 1.2594334,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "220",
+          "Year": "1970",
+          "Artist": "The Meters",
+          "Subgenre": "Bayou Funk, Soul, Funk",
+          "Album": "Look-Ka Py Py"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfk2",
+        "_index": "songs",
+        "_score": 1.2594334,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "236",
+          "Year": "1992",
+          "Artist": "Jackie Wilson",
+          "Subgenre": "None",
+          "Album": "Mr. Excitement!"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhflI",
+        "_index": "songs",
+        "_score": 1.2594334,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "254",
+          "Year": "1966",
+          "Artist": "Otis Redding",
+          "Subgenre": "Soul",
+          "Album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul"
+        },
+        "_type": "album"
+      },
+      {
+        "_id": "AWE9sn4BLWdmImIOhfle",
+        "_index": "songs",
+        "_score": 1.2594334,
+        "_source": {
+          "Genre": "Funk/Soul",
+          "Number": "276",
+          "Year": "1975",
+          "Artist": "Parliament",
+          "Subgenre": "P.Funk, Funk",
+          "Album": "Mothership Connection"
+        },
+        "_type": "album"
+      }
+    ],
+    "total": 80
+  },
+  "timed_out": false
+}
