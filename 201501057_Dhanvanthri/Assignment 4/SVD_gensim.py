@@ -15,16 +15,16 @@ X = sparse_random_matrix(songs,users, density=0.01, random_state=45)
 X = np.absolute(X)
 X_Norm = normalize(X, norm='l1', axis=0)
 
-print "Input Data"
+print ("Input Data")
 print (X_Norm)
-print "Performing SVD..."
+print ("Performing SVD...")
 start = timeit.default_timer()
 mat= gensim.models.lsimodel.stochastic_svd(X,6,50000)
 stop = timeit.default_timer()
 
-print "singular values"
-print mat[1]
-print "Left singular values"
-print mat[0]
-print "Time taken to perform SVD:"
-print stop-start," Seconds"
+print ("singular values")
+print (mat[1])
+print ("Left singular values")
+print (mat[0])
+print ("Time taken to perform SVD:")
+print (stop-start," Seconds")

@@ -15,19 +15,19 @@ X = np.absolute(X)
 X_Norm = normalize(X, norm='l1', axis=0)
 svd = TruncatedSVD(n_components=6, n_iter=7, random_state=42)
 
-print "Input Data"
+print ("Input Data")
 print (X_Norm)
-print "Performing SVD..."
+print ("Performing SVD...")
 start = timeit.default_timer()
 svd.fit(X_Norm)
 stop = timeit.default_timer()
 
-print "Variance ratio Of all components"
+print ("Variance ratio Of all components")
 print(svd.explained_variance_ratio_)  
-print "Sigma - Diagonal entries"
+print ("Sigma - Diagonal entries")
 print(svd.explained_variance_ratio_.sum())  
 print(svd.singular_values_) 
 print("VT Matrix")
 print (svd.components_)
-print "Time taken to perform SVD:"
-print stop-start," Seconds"
+print ("Time taken to perform SVD:")
+print (stop-start," Seconds")
