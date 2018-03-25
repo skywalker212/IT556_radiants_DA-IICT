@@ -1,0 +1,94 @@
+-----------------------------------------------------
+Datasize = 10 Thousand Tuples
+------------
+Fold 1
+Fitting data willth SGD...
+RMSE: 2.2650
+------------
+Fold 2
+Fitting data willth SGD...
+RMSE: 2.3258
+------------
+------------
+Mean RMSE: 2.2954
+------------
+------------
+time taken for execution: 0.995285987854 seconds
+Partition of a set of 176853 objects. Total size = 21341240 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0  82867  47  7590224  36   7590224  36 str
+     1  48126  27  4044792  19  11635016  55 tuple
+     2    342   0  1237008   6  12872024  60 dict of module
+     3    567   0   992424   5  13864448  65 dict (no owner)
+     4   7375   4   944000   4  14808448  69 types.CodeType
+     5    922   1   858736   4  15667184  73 dict of type
+     6   6978   4   837360   4  16504544  77 function
+     7    922   1   829720   4  17334264  81 type
+     8    806   0   755712   4  18089976  85 unicode
+     9   2785   2   532168   2  18622144  87 list
+<379 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 100 Thousand Tuples
+Evaluating RMSE of algorithm MatrixFacto.
+
+------------
+Fold 1
+Fitting data willth SGD...
+RMSE: 0.9868
+------------
+Fold 2
+Fitting data willth SGD...
+RMSE: 0.9886
+------------
+------------
+Mean RMSE: 0.9877
+------------
+------------
+time taken for execution: 10.5243060589 seconds
+Partition of a set of 715403 objects. Total size = 51035488 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 350054  49 19050904  37  19050904  37 str
+     1 228117  32 18444008  36  37494912  73 tuple
+     2 100381  14  2409144   5  39904056  78 float
+     3   3821   1  2099240   4  42003296  82 list
+     4    342   0  1237008   2  43240304  85 dict of module
+     5    361   0  1056856   2  44297160  87 dict (no owner)
+     6   7375   1   944000   2  45241160  89 types.CodeType
+     7    910   0   855376   2  46096536  90 dict of type
+     8   6969   1   836280   2  46932816  92 function
+     9    910   0   818872   2  47751688  94 type
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 1 Million Tuples
+Evaluating RMSE of algorithm MatrixFacto.
+
+------------
+Fold 1
+Fitting data willth SGD...
+RMSE: 0.9190
+------------
+Fold 2
+Fitting data willth SGD...
+RMSE: 0.9233
+------------
+------------
+Mean RMSE: 0.9211
+------------
+------------
+time taken for execution: 117.792088032 seconds
+Partition of a set of 6128017 objects. Total size = 361714296 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 2028536  33 162477520  45 162477520  45 tuple
+     1 3047778  50 146920704  41 309398224  86 str
+     2 1000590  16 24014160   7 333412384  92 float
+     3  10952   0 17624064   5 351036448  97 list
+     4    361   0  1794136   0 352830584  98 dict (no owner)
+     5    342   0  1237008   0 354067592  98 dict of module
+     6      2   0   983616   0 355051208  98 collections.defaultdict
+     7   7375   0   944000   0 355995208  98 types.CodeType
+     8    910   0   855376   0 356850584  99 dict of type
+     9   6969   0   836280   0 357686864  99 function
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------

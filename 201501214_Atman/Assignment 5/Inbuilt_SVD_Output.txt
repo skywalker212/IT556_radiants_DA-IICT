@@ -1,0 +1,88 @@
+-----------------------------------------------------
+Datasize = 10 Thousand Tuples
+------------
+Fold 1
+RMSE: 1.0302
+------------
+Fold 2
+RMSE: 1.0279
+------------
+------------
+Mean RMSE: 1.0290
+------------
+------------
+time taken for execution: 0.662901878357 seconds
+Partition of a set of 176757 objects. Total size = 21334032 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0  82848  47  7588712  36   7588712  36 str
+     1  48114  27  4043552  19  11632264  55 tuple
+     2    342   0  1237008   6  12869272  60 dict of module
+     3    569   0   992984   5  13862256  65 dict (no owner)
+     4   7371   4   943488   4  14805744  69 types.CodeType
+     5    921   1   858456   4  15664200  73 dict of type
+     6   6975   4   837000   4  16501200  77 function
+     7    921   1   828816   4  17330016  81 type
+     8    806   0   755712   4  18085728  85 unicode
+     9   2757   2   527656   2  18613384  87 list
+<379 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 100 Thousand Tuples
+Evaluating RMSE of algorithm SVD.
+
+------------
+Fold 1
+RMSE: 0.9558
+------------
+Fold 2
+RMSE: 0.9576
+------------
+------------
+Mean RMSE: 0.9567
+------------
+------------
+time taken for execution: 7.02322816849 seconds
+Partition of a set of 715345 objects. Total size = 51031000 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 350035  49 19049392  37  19049392  37 str
+     1 228105  32 18442768  36  37492160  73 tuple
+     2 100379  14  2409096   5  39901256  78 float
+     3   3812   1  2096992   4  41998248  82 list
+     4    342   0  1237008   2  43235256  85 dict of module
+     5    363   0  1057416   2  44292672  87 dict (no owner)
+     6   7371   1   943488   2  45236160  89 types.CodeType
+     7    909   0   855096   2  46091256  90 dict of type
+     8   6966   1   835920   2  46927176  92 function
+     9    909   0   817968   2  47745144  94 type
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 1 Million Tuples
+Evaluating RMSE of algorithm SVD.
+
+------------
+Fold 1
+RMSE: 0.9030
+------------
+Fold 2
+RMSE: 0.9024
+------------
+------------
+Mean RMSE: 0.9027
+------------
+------------
+time taken for execution: 86.0800669193 seconds
+Partition of a set of 6127969 objects. Total size = 361705552 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 2028524  33 162476280  45 162476280  45 tuple
+     1 3047759  50 146919192  41 309395472  86 str
+     2 1000588  16 24014112   7 333409584  92 float
+     3  10948   0 17617440   5 351027024  97 list
+     4    363   0  1794696   0 352821720  98 dict (no owner)
+     5    342   0  1237008   0 354058728  98 dict of module
+     6      2   0   983616   0 355042344  98 collections.defaultdict
+     7   7371   0   943488   0 355985832  98 types.CodeType
+     8    909   0   855096   0 356840928  99 dict of type
+     9   6966   0   835920   0 357676848  99 function
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
