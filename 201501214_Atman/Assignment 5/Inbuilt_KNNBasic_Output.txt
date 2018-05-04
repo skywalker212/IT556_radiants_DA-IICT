@@ -1,0 +1,104 @@
+-----------------------------------------------------
+Datasize = 10 Thousand Tuples
+Evaluating RMSE of algorithm KNNBasic.
+
+/usr/local/lib/python2.7/dist-packages/surprise/dataset.py:193: UserWarning: Using data.split() or using load_from_folds() without using a CV iterator is now deprecated. 
+  UserWarning)
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1969
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.1997
+------------
+------------
+Mean RMSE: 1.1983
+------------
+------------
+time taken for execution: 0.225045919418 seconds
+Partition of a set of 176786 objects. Total size = 21334376 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0  82848  47  7588712  36   7588712  36 str
+     1  48114  27  4043560  19  11632272  55 tuple
+     2    342   0  1237008   6  12869280  60 dict of module
+     3    568   0   992704   5  13861984  65 dict (no owner)
+     4   7371   4   943488   4  14805472  69 types.CodeType
+     5    921   1   858456   4  15663928  73 dict of type
+     6   6975   4   837000   4  16500928  77 function
+     7    921   1   828816   4  17329744  81 type
+     8    806   0   755712   4  18085456  85 unicode
+     9   2773   2   530344   2  18615800  87 list
+<379 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 100 Thousand Tuples
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0053
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 1.0035
+------------
+------------
+Mean RMSE: 1.0044
+------------
+------------
+time taken for execution: 13.8129079342 seconds
+Partition of a set of 715343 objects. Total size = 51030392 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 350035  49 19049392  37  19049392  37 str
+     1 228105  32 18442776  36  37492168  73 tuple
+     2 100379  14  2409096   5  39901264  78 float
+     3   3813   1  2099176   4  42000440  82 list
+     4    342   0  1237008   2  43237448  85 dict of module
+     5    362   0  1057136   2  44294584  87 dict (no owner)
+     6   7371   1   943488   2  45238072  89 types.CodeType
+     7    909   0   855096   2  46093168  90 dict of type
+     8   6966   1   835920   2  46929088  92 function
+     9    909   0   817968   2  47747056  94 type
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
+-----------------------------------------------------
+Datasize = 1 Million Tuples
+Evaluating RMSE of algorithm KNNBasic.
+
+------------
+Fold 1
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9428
+------------
+Fold 2
+Computing the msd similarity matrix...
+Done computing similarity matrix.
+RMSE: 0.9429
+------------
+------------
+Mean RMSE: 0.9428
+------------
+------------
+time taken for execution: 561.945466042 seconds
+Partition of a set of 6127975 objects. Total size = 361698544 bytes.
+ Index  Count   %     Size   % Cumulative  % Kind (class / dict of class)
+     0 2028524  33 162476288  45 162476288  45 tuple
+     1 3047759  50 146919192  41 309395480  86 str
+     2 1000588  16 24014112   7 333409592  92 float
+     3  10953   0 17613128   5 351022720  97 list
+     4    362   0  1794416   0 352817136  98 dict (no owner)
+     5    342   0  1237008   0 354054144  98 dict of module
+     6      2   0   983616   0 355037760  98 collections.defaultdict
+     7   7371   0   943488   0 355981248  98 types.CodeType
+     8    909   0   855096   0 356836344  99 dict of type
+     9   6966   0   835920   0 357672264  99 function
+<355 more rows. Type e.g. '_.more' to view.>
+-----------------------------------------------------
